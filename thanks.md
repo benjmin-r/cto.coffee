@@ -1,6 +1,5 @@
 ---
 layout: center
-permalink: /thanks.html
 ---
 
 # Thanks for reaching out
