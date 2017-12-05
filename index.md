@@ -14,12 +14,21 @@ have a chat.
 
 ## Episodes
 
-### Ep. 01 - How To Make Interviewing Better For All
+<div class="home">
+  <div class="posts">
+    {% for post in site.posts %}
+      <div class="post">
+        <a href="{{ post.url }}" class="post-link">
+          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+          <h3 class="h3 post-title">{{ post.title }}</h3>
+          <p class="post-summary">{{ post.summary }}</p>
+        </a>
+      </div>
+    {% endfor %}
+  </div>
+</div>
 
-_soon to be published_
 
-For this episode [Raimo](https://twitter.com/rradczewski) and myself will talk about how to make the process of
-interviewing people for your team, and the interview itself better for all involved.
 
 [benjamin]: http://squeakyvessel.com/about/
 [contact]:  {{ site.baseurl }}contact/

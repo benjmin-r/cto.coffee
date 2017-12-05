@@ -2,19 +2,52 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
+    <atom:link href="{{ site.url }}/podcast.rss" rel="self" type="application/rss+xml" />
+    <title>{{ site.title }}</title>
     <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}/</link>
-    <atom:link href="{{ "feed.xml" | prepend: '/' | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <link>{{ site.url }}</link>
+    <language>{{ site.lang }}</language>
+    <managingEditor>{{ site.email }} ({{ site.author }})</managingEditor>
+    <webMaster>{{ site.email }} ({{ site.author }})</webMaster>
+    <copyright>{{ site.copyright }}</copyright>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <image>
+      <link>{{ site.url }}</link>
+      <url>{{ site.url }}/images/itunes.png</url>
+      <title>{{ site.title }}</title>
+    </image>
+    <itunes:author>{{ site.author }}</itunes:author>
+    <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
+    <itunes:subtitle>{{ site.subtitle | xml_escape }}</itunes:subtitle>
+    <itunes:keywords>{{ site.keywords }}</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>{{ site.author }}</itunes:name>
+      <itunes:email>{{ site.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ site.url }}/static/img/itunes.png" />
+    <itunes:category text="Technology">
+      <itunes:category text="Podcasting" />
+    </itunes:category>
+    <itunes:explicit>yes</itunes:explicit>
+    {% for post in site.posts %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-        <link>{{ post.url | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <description>{{ post.excerpt | xml_escape }}</description>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
+        <itunes:author>{{ site.author }}</itunes:author>
+        <itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
+        <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
+        <itunes:duration>{{ post.duration }}</itunes:duration>
+        <itunes:keywords>{{ post.keywords }}</itunes:keywords>
+        <itunes:image href="{{ site.url }}/images/itunes.png" />
+        <itunes:explicit>{{ post.explicit }}</itunes:explicit>
+        <itunes:block>{{ post.block }}</itunes:block>
       </item>
     {% endfor %}
   </channel>
