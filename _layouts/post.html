@@ -1,0 +1,17 @@
+---
+layout: layout
+---
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+  {% assign minutes = 1 %}
+{% endif %}
+
+<article class="post-content">
+  {{ content }}
+</article>
+
+<div class="mb2 post-meta small">
+  {{ page.date | date: "%b %-d, %Y" }} || {{ minutes }} minute read
+</div>
+
+
