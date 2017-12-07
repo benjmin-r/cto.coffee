@@ -9,7 +9,7 @@ tags: cto-coffee
 CTO.coffee is a new podcast series, where [I][benjamin] chat with varying guests about the people side of technology and
 developing software, preferably while having a coffee together.
 
-You like talking about the human side of technology? I'd love to talk to you then, so do [reach out][contact] and let's
+You like talking about the human side of technology? I'd love to talk to you then, do [reach out][contact] and let's
 have a chat.
 
 ## Episodes
