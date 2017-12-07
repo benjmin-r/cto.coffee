@@ -1,0 +1,19 @@
+<div class="home">
+  <div class="posts">
+    {% for post in site.posts %}
+      <div class="post">
+        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+        <a href="{{ post.url }}" class="post-link">
+          <h3 class="h3 post-title">{{ post.title }}</h3>
+        </a>
+        <p class="post-summary">
+          {{ post.summary }}
+          <a href="{{ post.url }}" class="post-link">
+            <div class="read-more">Read more…</div>
+          </a>
+        </p>
+      </div>
+    {% endfor %}
+  </div>
+</div>
+

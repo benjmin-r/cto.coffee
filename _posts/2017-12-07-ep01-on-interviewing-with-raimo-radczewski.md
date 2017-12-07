@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 01 - "On interviewing" with Raimo Radczewski
-date: 2017-12-06
+date: 2017-12-07
 permalink: /episodes/01-on-interviewing-with-raimo-radczewski/
 published: true
 excerpt: A relaxed chat about interviewing with Raimo Radczewski, Freelance Software Developer and Coach from Berlin.
