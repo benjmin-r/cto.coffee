@@ -1,5 +1,6 @@
 # Site settings
 title:       cto.coffee
+lang:        'en'
 email:       benjamin@cto.coffee
 author:      Benjamin Reitzammer
 description: "cto.coffee - Let's talk about people & tech."
