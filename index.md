@@ -14,19 +14,7 @@ have a chat.
 
 ## Episodes
 
-<div class="home">
-  <div class="posts">
-    {% for post in site.posts %}
-      <div class="post">
-        <a href="{{ post.url }}" class="post-link">
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-          <h3 class="h3 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.summary }}</p>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
-</div>
+{% include post-list.html %}
 
 
 
