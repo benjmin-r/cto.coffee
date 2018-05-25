@@ -1,15 +1,15 @@
 ---
 layout: post
 title: Episode 02 - "1on1s" with Christian Uhl
-date: 2018-03-06
+date: 2018-05-25
 permalink: /episodes/02-1on1s-with-christian-uhl
 published: true
 excerpt: "A chat with Christian Uhl about the why, what and how of 1on1s, the practice of two people (usually a manager and their direct reports) meeting regularly for various reasons."
 summary: "A chat with Christian Uhl about the why, what and how of 1on1s, the practice of two people (usually a manager and their direct reports) meeting regularly for various reasons."
 keywords: technology,cto,leadership,management,people,techlead,agile,softwaredevelopment,1on1
 file: http://files.cto.coffee/ep02-1on1s-with-christian-uhl/cto.coffee__ep02.mp3
-duration: "40:40"
-length: "39056114"
+duration: "43:47"
+length: "42043269"
 explicit: "no"
 block: "no"
 ---
@@ -29,18 +29,19 @@ I find the practice of 1on1s so important, I've written about [why I do 1on1s][1
 structured][1on1-structure] some time ago.
 
 Funny enough, [Christian][@chrisuhl], who somehow started a [podcast][uhlsteinescherben] about his journey on becoming a
-manager around the same time [the first cto.coffee episode][ep01] and a fellow software crafter, mentioned those blog
-posts in [one of his episodes][uhlsteinescherben-1on1s] and he and his co-host said something along the lines of _"it'd
-be cool if we'd make an episode with Benjamin about 1on1s"_.
+manager around the same time as [the first cto.coffee episode][ep01] and a fellow software crafter, mentioned those blog
+posts in [one of his podcast episodes][uhlsteinescherben-1on1s] and he and his co-host said something along the lines of
+_"it'd be cool if we'd make an episode with Benjamin about 1on1s"_.
 
 So, given that I love talking about humaning in tech in cto.coffee it was a no-brainer, that I had to talk about 1on1s
 with Christian.
 
-Nevertheless I hope you get something out of our chat. If you've got questions or any kind of feedback, do
-[contact me][contact].
+So I hope you have as much fun and get as much out of our chat as we did while making it. If you've got questions or any
+kind of feedback, do [contact me][contact].
 
 Contrary to the [first cto.coffee episode][ep01] I'm more the talker in this episode with Christian and we recorded this
-episode in **German**.  
+episode in **German**. Also it was cross-posted to [Christian's podcast][uhlsteinescherben-crosspost], so you might have
+heard it before.
 
 
 ### Download
@@ -67,6 +68,7 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [@chrisuhl]: https://twitter.com/chrisuhl
 [uhlsteinescherben]: http://uhl-steine-scherben.org/
 [uhlsteinescherben-1on1s]: http://uhl-steine-scherben.org/2/
+[uhlsteinescherben-crosspost]: http://uhl-steine-scherben.org/5/
 [dev-manager-pendulum]: https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
 [1on1-purpose]: https://squeakyvessel.com/2015/05/21/1on1-purpose-goals/
