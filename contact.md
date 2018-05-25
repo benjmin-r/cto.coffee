@@ -11,7 +11,13 @@ permalink: /contact/
     <input type="hidden" name="_next" value="/thanks" />
     <input type="hidden" name="_subject" value="New submission!" />
     <input type="text" name="_gotcha" style="display:none" />
+
+  <p>
+    By using this form to contact me, you're agreeing that the information you provide in the form is processed by <a
+    href="https://formspree.io">formspree.io</a>. The <a href="/privacy">privacy page</a> contains more information about
+    what this means.
+  </p>
+
     <input type="submit" class="button button-blue button-big mobile-block" value="Say Hello">
   </form>
 </div>
-
