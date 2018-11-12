@@ -5,7 +5,7 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="{{ site.lang }}">
   <channel>
     <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-    <title>{{ site.title }}</title>
+    <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <language>{{ site.lang }}</language>
@@ -17,7 +17,7 @@ layout: null
     <image>
       <link>{{ site.url }}</link>
       <url>{{ site.url }}/static/img/itunes.png</url>
-      <title>{{ site.title }}</title>
+      <title>{{ site.title | xml_escape }}</title>
     </image>
     <itunes:author>{{ site.author }}</itunes:author>
     <itunes:summary>{{ site.description | xml_escape }}</itunes:summary>
@@ -41,7 +41,7 @@ layout: null
         <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
         <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
         <itunes:author>{{ site.author }}</itunes:author>
-        <itunes:subtitle>{{ site.title }}: {{ post.title }}</itunes:subtitle>
+        <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
         <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
         <itunes:duration>{{ post.duration }}</itunes:duration>
         <itunes:keywords>{{ post.keywords }}</itunes:keywords>
