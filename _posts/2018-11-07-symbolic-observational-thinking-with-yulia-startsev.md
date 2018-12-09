@@ -17,6 +17,28 @@ block: "no"
 # Episode 06
 ## "Symbolic & Observational Thinking" with Yulia Startsev
 
+Works at Mozilla
+Yulia is co-chair of node's TC39 in 2019
+https://twitter.com/gesa/status/1067510472423788544
+
+
+
+Developer Tooling
+- lots of people self thaught, at the same time industry is not accomodating them by making it necessary to know lots of
+  context around tools --> JS Better Errors
+  
+Minute 35
+Compassionate Coding ... 'Coding as a social activity and so we need to think about what influences it'
+
+Wittgenstein
+"The limits of my language mean the limits of my world."
+https://en.wikiquote.org/wiki/Ludwig_Wittgenstein
+
+Minute 32 
+What is debugging?
+
+
+Stop thinking what you see and start drawing/interacting with a system
 
 
 
