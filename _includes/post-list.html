@@ -1,6 +1,6 @@
 <div class="home">
   <div class="posts">
-    {% for post in site.posts %}
+    {% for post in include.posts_list limit:include.post_count %}
       <div class="post">
         <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
         <a href="{{ post.url }}" class="post-link">
