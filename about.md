@@ -6,10 +6,11 @@ categories: []
 tags: cto-coffee
 ---
 
-cto.coffee is a podcast about people in technology.
+cto.coffee is a podcast series and a blog.
 
-If you like talking about the human side of technology, then I'd love to talk to you. Do [reach out][contact] and let's
-have a chat.
+### 👋 I'm Benjamin
+
+
 
 ### Why the name "cto.coffee"?
 

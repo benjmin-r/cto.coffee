@@ -1,21 +1,31 @@
 ---
 layout: page
 title: "Let's talk about people & tech"
-date: 2017-05-05
-categories: []
-tags: cto-coffee
 ---
 
-CTO.coffee is a podcast series, where [I][benjamin] chat with varying guests about the people side of technology and
-developing software, preferably while having a coffee together.
+cto.coffee is a podcast series and a blog.
 
-You like talking about the human side of technology? I'd love to talk to you then, do [reach out][contact] and let's
-have a chat.
+The podcast features short conversation between [me][benjamin] and varying guests, where we talk about the people side
+of technology and developing software.
 
-## Episodes
+Contrary to the podcast, where you'll hear opinions from different people, my writing is mainly my thoughts and opinions
+on people in tech. Namely all things leadership, management, how to collaborate effectively and how to foster empathetic
+teams.
 
-{% include post-list.html %}
 
+## [Latest Writing →](/writing)
+
+{% include post-list.html posts_list=site.categories.writing post_count=3 %}
+
+[→ All Articles](/writing)
+
+----
+
+## [Latest Podcast Episodes →](/episodes)
+
+{% include post-list.html posts_list=site.categories.episodes post_count=3 %}
+
+[→ All Podcast Episodes](/episodes)
 
 
 [benjamin]: http://squeakyvessel.com/about/
