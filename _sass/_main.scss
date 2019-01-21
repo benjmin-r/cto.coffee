@@ -1,5 +1,28 @@
 @charset "UTF-8";
 
+#banner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #000;
+  width: 100%;
+}
+
+#banner-content {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+
+  a {
+    color: #FFF;
+
+    em {
+      text-decoration: underline;
+    }
+  }
+}
+
 article img {
   display: block;
   margin: 0 auto;
@@ -75,6 +98,7 @@ img {
 }
 
 .site-wrap {
+  padding-top: 70px;
   min-height: 100%;
   margin-bottom: -120px;
 }
@@ -488,6 +512,10 @@ h6,
     text-align: center;
     float: none;
   }
+
+  ul {
+    padding-left: 15px;
+  }
 }
 
 @media screen and (min-width: 64em) {
@@ -498,7 +526,7 @@ h6,
 
   .h2,
   h2 {
-    font-size: 3.18rem;
+    font-size: 3rem;
   }
 
   .h3,

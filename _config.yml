@@ -7,7 +7,7 @@ description: "cto.coffee - Let's talk about people & tech"
 subtitle:    "The podcast for people who care about people"
 baseurl:     "/"
 url:         "https://cto.coffee"
-copyright:  "&#x2117; &amp; &#xA9; 2017"
+copyright:  "&#x2117; &amp; &#xA9; 2017-2019"
 keywords:   technology,cto,leadership,management,people,techlead,agile,softwaredevelopment
 
 show_related_posts: false
