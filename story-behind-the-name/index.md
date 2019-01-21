@@ -1,18 +1,7 @@
 ---
 layout: page
-title: "Let's talk people & tech"
-date: 2017-05-05
-categories: []
-tags: cto-coffee
+title: "Why the name 'cto.coffee'?"
 ---
-
-cto.coffee is a podcast series and a blog.
-
-### 👋 I'm Benjamin
-
-
-
-### Why the name "cto.coffee"?
 
 You mean, you need a reason to associate any term with coffee? Well, then, it's a kinda long story, but you asked.
 
@@ -53,5 +42,3 @@ much as conversations with people who really cared about people.
 
 [1on1-purpose]: http://squeakyvessel.com/2015/05/21/1on1-purpose-goals/
 [1on1-structure]: http://squeakyvessel.com/2015/09/09/1on1-structure/
-[contact]:  {{ site.baseurl }}contact/
-
