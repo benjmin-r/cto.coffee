@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Work with me "
+description: "Find out more about Benjamin, what he cares about and how he can work with you."
 ---
 
 <style>
