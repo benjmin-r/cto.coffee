@@ -42,6 +42,8 @@ the back of my mind for quite some time now. It was also very inspiring, as Marc
 1on1 is your primary practice to build a strong, professional, bidirectional trust relationship", around _~20min_) and
 closed the conversation with a nod towards an equally interesting [leadership theory][lmx-theory].
 
+Enjoy!
+
 
 ### Download
 
