@@ -1,10 +1,10 @@
 # Site settings
-title:       "cto.coffee - Let's talk about people & tech"
+title:       "cto.coffee - Let's talk people & tech"
 lang:        'en'
 email:       benjamin@cto.coffee
 author:      Benjamin Reitzammer
-description: "cto.coffee is a podcast about people in technology. It features short conversations where we talk about the people side of technology and developing software."
-subtitle:    "The podcast for people who care about people"
+description: "cto.coffee is a podcast and blog about people in technology. The podcast features short conversations where we talk about the people side of technology and developing software."
+subtitle:    "The podcast & blog for people in tech who care about people."
 baseurl:     "/"
 url:         "https://cto.coffee"
 copyright:  "&#x2117; &amp; &#xA9; 2017-2019"
