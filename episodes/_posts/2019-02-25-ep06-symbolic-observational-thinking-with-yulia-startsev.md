@@ -37,8 +37,9 @@ However three of them really struck a chord with me. The first quote is
 > "Coding is pre-dominantly a social activity"
 
 It sums up perfectly, why I consider the way social interactions are conducted in a team or organization much more
-critical to an organization's success, than the choice of technology in that organization.  The second quote which will
-stay with me for a long time is
+critical to an organization's success, than the choice of technology in that organization.
+
+The second quote which will stay with me for a long time is
 
 > "One of the main purposes of debugging tools is an educational purpose. [...] Debugging tools help us
 > understand where we haven't fully understood something."
