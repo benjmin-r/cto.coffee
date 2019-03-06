@@ -3,7 +3,7 @@
     <div class="measure">
       <style>
         .site-header          { padding-left: 0.5em; padding-right: 0.5em; }
-        .site-header .measure { min-height:200px; background: center no-repeat url(/static/img/coffee-cup.svg);}
+        .site-header .measure { min-height:200px; background: center no-repeat url(/static/img/coffee-cup.svg); }
         h1                    { text-align: left; font-size: 3.2rem; }
 
         @media screen and (max-width: 48em) {
@@ -14,11 +14,14 @@
 
       <nav>
         <a href="{{ site.baseurl }}">/ cto.coffee</a><br>
-        <a href="{{ site.baseurl }}writing/">/ Writing</a><br>
-        <a href="{{ site.baseurl }}episodes/">/ Podcast</a><br>
+
+        <a href="{{ site.baseurl }}writing/">/ Writing</a>
+        <a href="/writing-feed.xml" title="RSS feed for written articles"> <span class="fa fa-rss"></span></a><br>
+
+        <a href="{{ site.baseurl }}episodes/">/ Podcast</a>
+        <a href="/feed.xml" title="RSS feed for podcast episodes"><span class="fa fa-rss"></span></a><br>
+
         <a href="{{ site.baseurl }}contact/">/ Contact</a><br>
-        <a href="/writing-feed.xml">/ <span class="fa fa-rss"></span> Writing Feed</a><br>
-        <a href="/feed.xml">/ <span class="fa fa-rss"></span> Podcast Feed</a>
       </nav>
       <div class="clearfix"></div>
     </div>
