@@ -37,11 +37,8 @@ social activity".
 From this follows, that the output of a team as a whole is always more important than the output of a single individual,
 no matter how experienced or productive they are. And as such, one can exhibit leadership, by putting their team's
 output before their own.  
-In more practical terms, one could say: Put aside your own coding or other work, if you feel that by helping, teaching
-others the overall team output will increase
-
-Or to put it differently: If you measure yourself by your team's output, not by your own output, you sure are on the right
-track to show leadership.
+Or to put it differently: If you measure yourself by your team's output, not by your own output, you sure are on the
+right track to show leadership.
 
 This can sometimes mean, that it seems your own work is less recognized, because you do work, that's not as tangible as
 code, such as onboarding documentation for new developers, a process description or a pair programming session with
@@ -50,8 +47,8 @@ peers on your team.
 
 ### Take ownership
 
-This one is closely related and somehow a subset of "Put your team and its deliveries first", but still is important
-enough to warrant standing on its own.
+Taking ownership is closely related and somehow a subset of "Put your team and its deliveries first", but still is
+important enough to warrant standing on its own.
 
 If you see challenges or problems in your team, be it in the way your team works or in the team's output itself, you can
 demonstrate leadership by taking ownership and addressing the problems or challenges. Because often times it happens
@@ -87,7 +84,7 @@ By now, it's a given, that diverse teams are not only the right thing to do, but
 do][diverse-teams].
 
 So in order to make the best out of your team, you should make sure to tap their knowledge and experience. After all,
-what good does it do, if you have smart people on the team, only make all the decisions for them?
+what good does it do, if you have smart people on the team, only to make all the decisions for them?
 
 Still, recognizing the need for and having the intention of making the best of smart and diverse teams can get easily
 caught up in all sorts of unconscious biases and habits. Which may lead to tapping into only a subset of your team's
@@ -144,9 +141,12 @@ So I'd appreciate it a lot, if you [send other resources in this space my way on
 
 I'm aware that reality is messier and more complicated than the shiny, easy world of everyone being a leader. As such,
 please don't understand the above list as any kind of checklist, one needs to fulfil in order to be recognized as a
-leader. Rather please be aware, that some groups of people, such as underrepresented groups, may not show the listed
-traits as easy as the typical white-male team member. If members of your team are part of an underrepresented group and
-you don't perceive them as a leader, there might be other reasons at work, then them not being fit for leading.
+leader.  
+Rather please be aware, that some groups of people, such as underrepresented groups, may not show the listed traits as
+easy as the typical white-male team member. If members of your team are part of an underrepresented group and you don't
+perceive them as a leader, there might be other reasons at work, than them not being a leader. They most probably need
+explicit [sponsorship][sponsorship] and your organization may benefit from talking about [systemic][systemic-bias] and
+[unconscious][unconscious-bias] biases and concepts such as the [glass ceiling][glass-ceiling].
 
 
 [slw]: http://softwareleadweekly.com/issues/316
@@ -156,3 +156,7 @@ you don't perceive them as a leader, there might be other reasons at work, then 
 [@benjamin]: https://twitter.com/benjamin
 [diverse-teams]: https://hbr.org/2016/11/why-diverse-teams-are-smarter
 [active-listening]: https://en.wikipedia.org/wiki/Active_listening
+[sponsorship]: https://larahogan.me/blog/what-sponsorship-looks-like/
+[systemic-bias]: https://en.wikipedia.org/wiki/Systemic_bias
+[unconscious-bias]: https://en.wikipedia.org/wiki/Cognitive_bias
+[glass-ceiling]: http://geekfeminism.wikia.com/wiki/Glass_ceiling
