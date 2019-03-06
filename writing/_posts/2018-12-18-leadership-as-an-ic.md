@@ -47,8 +47,8 @@ peers on your team.
 
 ### Take ownership
 
-Taking ownership is closely related and somehow a subset of "Put your team and its deliveries first", but still is
-important enough to warrant standing on its own.
+Being proactive and taking ownership is closely related and somehow a subset of "Put your team and its deliveries
+first", but still is important enough to warrant standing on its own.
 
 If you see challenges or problems in your team, be it in the way your team works or in the team's output itself, you can
 demonstrate leadership by taking ownership and addressing the problems or challenges. Because often times it happens
