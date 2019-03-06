@@ -31,7 +31,7 @@ Yulia is such a thoughtful person, who presents her thinking with an amazing elo
 to her explain complex concepts, and being able to talk to her about it.  
 
 As you can see in all the links and notes below, we touch upon a lot of topics in this episode, and Yulia delivers so
-many great quotes along the way, that they're too much too list them all.
+many great quotes along the way, that they're too much to list them all.
 
 However three of them really struck a chord with me. The first quote is
 > "Coding is pre-dominantly a social activity"
