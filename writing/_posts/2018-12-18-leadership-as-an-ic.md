@@ -150,9 +150,9 @@ Biases may result in you perceiving behaviours of some groups of people differen
 the group that’s most common in your organization.
 
 You might not perceive people from underrepresented groups as leaders. While they may actually be leading. So, consider
-[sponsorship][sponsorship] people from underrepresented groups. Plus, consider looking into overcoming
-[systemic][systemic-bias] and [unconscious][unconscious-bias] biases, and learning about related concepts such as the
-[glass ceiling][glass-ceiling].
+[sponsoring][sponsorship] people from underrepresented groups, to compensate disadvantages these groups experience.
+Plus, consider looking into overcoming [systemic][systemic-bias] and [unconscious][unconscious-bias] biases, and
+learning about related concepts such as the [glass ceiling][glass-ceiling].
 
 
 [slw]: http://softwareleadweekly.com/issues/316
