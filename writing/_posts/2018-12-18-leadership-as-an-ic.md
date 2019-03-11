@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Leadership as an Individual Contributor
-date: 2019-02-27
+date: 2019-03-11
 permalink: /writing/leadership-as-an-ic-individual-contributor
 published: true
 summary: "Or: How to lead if you're not a manager. In the time of empowered (and hopefully self-organizing) teams it feels like a given, that not only people in management positions should be the ones taking on leadership. Heck, some teams and organizations even require their teams and senior developers to 'be leaders' without any kind of formal authority. At the same time, it feels very difficult to nail down what leading means for people who are not enabled by an organization's authority as managers usually are."
