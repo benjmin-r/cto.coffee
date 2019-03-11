@@ -12,12 +12,12 @@ keywords: technology,cto,leadership,management
 
 **Or: How to lead if you're not a manager**
 
-In the time of empowered and self-organizing teams it feels like a given, that everyone should be taking on leadership.
-Not only the people in management positions.  
-Some organizations even require their teams and senior developers to “be leaders”. Without giving them any kind of
-formal authority.
+In the time of empowered and self-organizing teams, it feels like a given, that everyone should be taking on leadership.
+Not only the people in management positions. Some organizations even require their teams and senior developers to “be
+leaders”. Without giving them any kind of formal authority.
 
-But: What does leading mean? How do people, who don't have explicit authority handed to them, show leadership?
+But, like many others I've asked myself already: What does leading mean? How do people, who don't have explicit authority
+handed to them, show leadership?
 
 So, when I discovered [Tom Bartel's post "How to Exhibit Leadership as an Individual Contributor"][tombartel], I felt
 excited. It felt like "Finally someone answers this age-long question" to me.  
@@ -28,25 +28,25 @@ Yet, I find some leadership aspects are missing from his list. I'll try to descr
 below.
 
 Please be aware, when reading my points, that I’m not disagreeing  with Tom. Some of my points are already contained in
-his list of  behaviours. But it’s important for me to emphasize different aspects of them. All in all I’d like you to
-understood the below list as a supplement to Tom’s list.
+his list of  behaviours. But it’s important for me to emphasize different aspects of them. All in all, I’d like you to
+understand the below list as a supplement to Tom’s list.
 
 
 ### Put your team and its deliveries first
 
-"Software is a team sport" or as [Yulia said in the most recent cto.coffee episode][ep06]: "Coding is pre-dominantly a
+"Software is a team sport" or as [Yulia said in the most recent cto.coffee episode][ep06]: "Coding is predominantly a
 social activity".
 
 From this follows: The output of a team as a whole is always more important than the output of a single individual. No
 matter how experienced or productive that single individual might be. And as such, one can exhibit leadership, by
 putting their team’s output before their own.  
-Let me rephrase: Measure yourself by your team’s output, not by your own output alone. And you sure are on the right
+So, measure yourself by your team’s output, not by your own output alone. And you sure are on the right
 track to show leadership.
 
 But be aware, that depending on your team, this might result in your own work getting less recognition. Because you
-might do work, that’s not as tangible as code.  
-Such as onboarding documentation for new developers. Or you might make a process explicit by writing it down. Or you do
-a pair programming session with a peer on your team, and help them get better.
+might do work, that’s not as tangible as code. Such as writing onboarding documentation for new developers. Or you might
+make a process explicit by writing it down. Or you do a pair programming session with a peer on your team and help them
+get better.
 
 
 ### Be proactive and take ownership
@@ -60,16 +60,17 @@ Acting on problems and challenges can take many forms. It ranges from raising th
 retrospective and following up on it. Or if you're able to fix it yourself, make the time and do it.
 
 Please be aware though, that not taking action on a problem you see, does not mean you don’t care or do not take
-ownership. Reasons for not acting on challenges you perceive, can stem from various reasons. But if you feel comfortable
-and have the means to address problems in your team: Then you’re on the right path to demonstrating your ability to
-lead.
+ownership. Reasons for not acting on challenges you perceive can stem from various reasons.  
+But if you feel comfortable, have the means to address problems in your team and do it: Then you’re on the right path to
+demonstrating your ability to lead.
 
 
 ### Have an eye on the big picture
 
 It's very common, that some members of a team slide into a kind of tunnel vision after a while. Especially individual
 contributors make this tunnel vision their own. After all, it's considered as productivity, if they spend the largest
-part of their in the details of code. But it sure leads to problems, if nobody is having an eye on the bigger picture.
+part of their day in the details of code.  
+But it sure leads to problems, if nobody is having an eye on the bigger picture.
 
 So, you can lead, by breaking out of this tunnel vision from time to time.  
 Do a check of the current position of your team, with regards to where it should be at and where it should be going. 
@@ -82,22 +83,19 @@ an idea, only to not see it supported by your team.
 
 ### Make sure everyone is heard
 
-By now, it's a given, that diverse teams are not only the right thing to do, but also a [smart thing to
+By now, it's a given, that diverse teams are not only the right thing to do but also a [smart thing to
 do][diverse-teams].
 
-So to make the best out of your team, you should make sure to tap their knowledge and experience. After all, what good
-does it do, if you have smart people on the team, only to make all the decisions for them?
+So to make the best out of your team, you should make sure their knowledge and experience is used. After all, what good
+does it do, if you have smart people on the team, when they don't contribute?
 
-Still, you can get caught up in all sorts of unconscious biases and habits. Even with the best intention of creating and
-making the most out of smart and diverse teams.
+A good first step to do that is to make sure everyone on your team is heard. And I really mean _everyone’s_ opinion
+should be heard. If the matter is relevant to them. You can exhibit this kind of leadership behaviour, especially in
+team meetings. Start by asking everyone around, before making a team decision.
 
-A good first step to not get caught up  is to make sure everyone on your team is heard. And I really mean _everyone’s_
-opinion should be heard, if the matter is relevant to them. You can exhibit this kind of leadership behaviour especially
-in team meetings. Start by asking everyone around, before making a team decision.
-
-Of course this does not mean, everyone should have a say in the tiniest decision. Rather, leaders ensure that everyone
-who is affected by a decision, has a say in that decision. Leaders make sure no one is not drowned out by other, louder
-members of the team.
+Of course, this does not mean, everyone should have a say in the tiniest decisions. Rather, leaders ensure that everyone
+who is affected by a decision has a say in that decision. Leaders make sure no one is not drowned out by other, louder
+voices of the team.
 
 
 ### Seek out differing opinions and solutions
@@ -109,7 +107,7 @@ of places.
 When seeking out and receiving these opinions, one should also not only tolerate them. If anything, one should [listen
 to them actively][active-listening], and actually consider them.
 
-The goal of this is to make better informed decisions. Decisions that are based on more diverse opinions and viewpoints.
+The goal of this is to make better-informed decisions. Decisions that are based on more diverse opinions and viewpoints.
 
 
 ### Bonus: Lead by example
@@ -117,14 +115,14 @@ The goal of this is to make better informed decisions. Decisions that are based 
 Diligent readers will notice, that [Tom's list][tombartel] already lists "Leading by example". So you would not be wrong
 to say, this is not an extra point to Tom’s list.
 
-Nonetheless, this one is so important that I need to list it too. Plus, it's kind of a multiplier to all the above
-listed leadership traits.
+Nonetheless, this one is so important that I need to list it too. Plus, it's kind of a multiplier to all the
+above-listed leadership traits.
 
 That is, show any of the above traits in a way, that makes other people on your team want to behave in the same way.
 Then you have _the_ strongest indicator, that you are a leader.
 
-It's hard to emphasize this enough. You don’t have formal authority of an organization bestowed upon you? Yet, people
-follow what you do? Then you are a textbook definition of leader!
+It's hard to emphasize this enough. You don’t have a formal authority of an organization bestowed upon you? Yet, people
+follow what you do? Then you are a textbook definition of a leader!
 
 
 ## Addendum
@@ -136,7 +134,7 @@ Apart from that book, I assume there must be way more resources, be it books or 
 [Tom's post][tombartel]. The most I could find until now, where about explaining leadership in general. And
 not so much for individual contributors in software/operations teams.
 
-So I'd appreciate it a lot, if you [send other resources in this space my way on Twitter][@benjamin] or [contact
+So I'd appreciate it a lot if you [send other resources in this space my way on Twitter][@benjamin] or [contact
 me][contact].
 
 
@@ -148,7 +146,7 @@ don't understand the above list as any kind of checklist one needs to fulfil in 
 Rather, be aware that [systemic][systemic-bias] and [unconscious][unconscious-bias] biases affect how you perceive
 people.  
 
-Biases may result in you perceiving behaviours of some groups of people differently, than the behaviours of people from
+Biases may result in you perceiving behaviours of some groups of people differently than the behaviours of people from
 the group that’s most common in your organization.
 
 You might not perceive people from underrepresented groups as leaders. While they may actually be leading. So, consider
