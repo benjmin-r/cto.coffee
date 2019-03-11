@@ -21,12 +21,15 @@ organization's authority as managers usually are.
 
 So when I discovered the headline of [Tom Bartel's post "How to Exhibit Leadership as an Individual
 Contributor"][tombartel] (via the always interesting [SoftwareLeadWeekly][slw]) it felt like "Finally someone answers
-this age-long question" to me.
+this age-long question" to me.  
+And so Tom lays down several behaviours, that in my opinion give very good guidance on how to lead without formal
+authority.
 
-Tom lays down several behaviours, that in my opinion give very good guidance on how to lead without formal authority.
-However, I find some crucial leadership aspects are missing from his list, which I try to describe below.  
-Note, that I'm not disagreeing with Tom, and some of my points are somehow already contained in his list of behaviours
-that exhibit leadership. I'd like the below list to be understood more as additional points to Tom's list.
+However, I find some crucial leadership aspects are missing from his list, and I try to describe these aspects below.  
+
+Please be aware, when reading my points, that I'm not disagreeing with Tom. Some of my points are already contained in his list of behaviours,
+but it's important for me to put them diffently.
+All in all I'd like the below list to be understood as a supplement to Tom's list.
 
 
 ### Put your team and its deliveries first
@@ -95,7 +98,7 @@ make sure everyone, and I really mean everyone's opinion is heard if a matter is
 team meetings, one can exhibit this kind of leadership trait by asking around before making a team decision.
 
 Of course this does not mean, that everyone should have a say in every tiny decision someone else might make in their
-day to day work. Rather leaders ensure that everyone whose affected by a decision has a say in a decision and is not
+day to day work. Rather leaders ensure that everyone who is affected by a decision has a say in a decision and is not
 drowned out by other, louder members of the team.
 
 
@@ -126,27 +129,32 @@ kind of the point of this list 😉
 
 ## Addendum
 
-While the above list is based on my personal experience and observations, I wholeheartedly recommend the book "Manager's
-Path" by [Camille Fournier][@skamille]. It goes well beyond what I describe and does so with way more eloquence and
-depth.
+Also, I recommend the book "Manager's Path" by [Camille Fournier][@skamille]. It goes well beyond what I describe and
+does so with way more eloquence and depth.
 
-Apart from this book I assume, there must be way more resources, be it books or blog posts, on this topic than only
-Tom's post. However the most I could find until now, where more about explaining leadership in general, and not so much
-for individual contributors in software/operations teams.
+Apart from that book, I assume there must be way more resources, be it books or blog posts, on this topic than only
+[Tom's post][tombartel]. The most I could find until now, where about explaining leadership in general. And
+not so much for individual contributors in software/operations teams.
 
-So I'd appreciate it a lot, if you [send other resources in this space my way on Twitter][@benjamin]
+So I'd appreciate it a lot, if you [send other resources in this space my way on Twitter][@benjamin] or [contact
+me][contact].
 
 
 ## Disclaimer
 
 I'm aware that reality is messier and more complicated than the shiny, easy world of everyone being a leader. As such,
-please don't understand the above list as any kind of checklist, one needs to fulfil in order to be recognized as a
-leader.  
-Rather please be aware, that some groups of people, such as underrepresented groups, may not show the listed traits as
-easy as the typical white-male team member. If members of your team are part of an underrepresented group and you don't
-perceive them as a leader, there might be other reasons at work, than them not being a leader. They most probably need
-explicit [sponsorship][sponsorship] and your organization may benefit from talking about [systemic][systemic-bias] and
-[unconscious][unconscious-bias] biases and concepts such as the [glass ceiling][glass-ceiling].
+please don't understand the above list as any kind of checklist one needs to fulfil in order to be recognized as a
+leader.
+
+Rather, be aware that [systemic][systemic-bias] and [unconscious][unconscious-bias] biases affect how you perceive
+people.  
+Biases may result in you perceiving behaviours of some groups of people, such as groups underrepresented in your
+organization, differently than the behaviours of people from the group that's most common in your organization.
+
+If members of your team are part of an underrepresented group and you don't perceive them as a leader, there might be
+other reasons at work, than them not being a leader. They might benefit from explicit [sponsorship][sponsorship] and
+your organization should consider looking into overcoming [systemic][systemic-bias] and [unconscious][unconscious-bias]
+biases and learn about related concepts such as the [glass ceiling][glass-ceiling].
 
 
 [slw]: http://softwareleadweekly.com/issues/316
@@ -160,3 +168,4 @@ explicit [sponsorship][sponsorship] and your organization may benefit from talki
 [systemic-bias]: https://en.wikipedia.org/wiki/Systemic_bias
 [unconscious-bias]: https://en.wikipedia.org/wiki/Cognitive_bias
 [glass-ceiling]: http://geekfeminism.wikia.com/wiki/Glass_ceiling
+[contact]: /contact/
