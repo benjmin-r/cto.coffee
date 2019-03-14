@@ -1,19 +1,19 @@
-<div class="home">
-  <div class="posts">
+  <div class="posts container">
     {% for post in include.posts_list limit:include.post_count %}
-      <div class="post">
-        <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-        <a href="{{ post.url }}" class="post-link">
-          <h3 class="h3 post-title">{{ post.title }}</h3>
-        </a>
-        <p class="post-summary">
-          {{ post.summary }}
+      <div class="post row">
+        <div class="post-meta three columns">{{ post.date | date: "%b %-d, %Y" }}</div>
+        <div class="nine columns">
           <a href="{{ post.url }}" class="post-link">
-            <div class="read-more">Read more…</div>
+            <h4 class="post-title">{{ post.title }}</h4>
           </a>
-        </p>
+          <p class="post-summary">
+            {{ post.summary }}
+            <a href="{{ post.url }}" class="post-link">
+              <div class="read-more">Read more…</div>
+            </a>
+          </p>
+        </div>
       </div>
     {% endfor %}
   </div>
-</div>
 

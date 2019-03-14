@@ -13,10 +13,16 @@ have a chat.
 
 {% include post-list.html posts_list=site.categories.writing post_count=3 %}
 
+<div class="u-cf"></div>
+
 [→ All Writings](/writing)
+
+---
 
 ## [Latest Podcast Episodes →](/episodes)
 
 {% include post-list.html posts_list=site.categories.episodes post_count=3 %}
+
+<div class="u-cf"></div>
 
 [→ All Podcast Episodes](/episodes)
