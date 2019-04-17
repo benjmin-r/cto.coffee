@@ -7,6 +7,19 @@ The following is a list of talks I gave at conferences and/or meetups/usergroups
 
 If you'd like me to speak about the below or other topics, you can [contact me](/contact/)
 
+## [Engineering Management for everyone](/speaking/engineering-management-for-everyone)
+
+Everybody has a manager, if they like it or not, if they actually work with them or not. Still, when reading typical IT
+focused web- or news sites there seems to be a somewhat common view, that managers are overhead at best and a hindrance
+at worst.
+
+That's why I want to show there is, actually a lot of, value in engineering management. I will do this by giving an
+overview of what’s considered to be part of an engineering manager's job today. Be it proper 1on1-meetings, providing
+transparency into and context for a team's work or constructive and actionable feedback. I will also include what
+everyone on a team can do, to have a good foundation for a functional relationship with their managers. Because
+management is a two-way street.
+
+
 ## [How do Agile & Scrum affect Quality - A Reality-Check](/speaking/agile-scrum-quality-reality-check/)
 
 The original question that lead to this talk was asked by [Marco Klemm](https://twitter.com/marcoklemm), initiator and
