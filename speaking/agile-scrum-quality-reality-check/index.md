@@ -10,7 +10,7 @@ tags: talk, speaking, agile, software-craftsmanship
 
 A talk I presented at ...
 
-- [Agile Nacht Stuttgart](http://www.mitblick.de/agile-nacht-stuttgart), Germany
+- [Agile Nacht Stuttgart](https://www.mitblick.de/agile-nacht-stuttgart/2016-10-24-nachlese), Germany
   on 24-Oct-2016, with the original title *"Folgen von Agil & Scrum auf die Qualität - Ein Realtitätscheck"*
 
 
