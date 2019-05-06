@@ -39,3 +39,11 @@ class="speakerdeck-embed"
 data-id="1a7c6823cc894276a26dc6c4df5a705d"
 data-ratio="1.77777777777778"
 src="//speakerdeck.com/assets/embed.js"></script>
+
+### Video
+
+The following video of me giving the talk in german was recorded on 3-May-2019 at [Wiesbaden TechTalk
+#29](https://www.meetup.com/de-DE/TechTalk-Beer/events/lhqdcqyzhbfb/).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/sFD_rsRz364" frameborder="0"
+allow="encrypted-media; " allowfullscreen></iframe>
