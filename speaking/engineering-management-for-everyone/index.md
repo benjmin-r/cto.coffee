@@ -12,6 +12,7 @@ A talk I presented at ...
 - [DevOps Meetup Stuttgart](https://www.meetup.com/de-DE/devops-stuttgart/events/259990682/), Germany
   on 04-Apr-2019
 - [Wiesbaden TechTalk #29](https://www.meetup.com/de-DE/TechTalk-Beer/events/lhqdcqyzhbfb/), Germany on 03-May-2019
+- [Herbstcampus 2019](https://www.herbstcampus.de/lecture.php?id=8797&source=0) in Nuremberg, Germany on 05-Sep-2019
 
 
 ### Abstract
