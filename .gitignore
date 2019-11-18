@@ -3,6 +3,7 @@ _site
 .DS_Store
 .gem
 .env*
+.jekyll*
 
 # Ignore the config file that's used for gh-pages.
 _config.gh-pages.yml
