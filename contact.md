@@ -4,6 +4,8 @@ title: Let's talk about CTO.coffee
 permalink: /contact/
 ---
 
+Please use below form to contact me or send me an email at `benjamin@<thisdomain>`.
+
 <div class="py2">
   <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked form-light">
     <input type="text" name="_replyto" class="input mobile-block" placeholder="Email Address">

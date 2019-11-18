@@ -7,6 +7,14 @@ tags: []
 author: Benjamin Reittzammer
 ---
 
+### #humansconf
+
+On 21-23 May 2020, I'm helping organise a new conference, that's focused on the humans in tech. It will take place at
+the lovely [Seminarzentrum Rückersbach](https://www.natuerlich-tagen.de/) in Germany and will be run as an open space
+conference. [Reach out](/contact/) if you're interested in helping out, sponsoring or just want to know more about
+`#humansconf`.
+
+
 ### Conference Talks
 
 I've been at various conferences and meetups/usergroups over the last years and gave talks at some of them.
