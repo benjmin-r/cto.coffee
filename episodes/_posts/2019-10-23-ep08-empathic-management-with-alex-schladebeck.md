@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 08 - Empathic Management with Alex Schladebeck
-date: 2019-12-13
+date: 2020-01-07
 permalink: /episodes/ep08-empathic-management-with-alex-schladebeck
 published: true
 excerpt: 'In this episode, I spoke with Alex Schladebeck, Head of Software Quality and Test Consulting at BREDEX GmbH, explored her working hypothesis of empathic management, which she shortly describes as "servant leadership with hearts".'
