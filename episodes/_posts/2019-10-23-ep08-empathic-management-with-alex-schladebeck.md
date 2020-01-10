@@ -17,9 +17,8 @@ block: "no"
 # Episode 08
 ## Empathic Management with Alex Schladebeck
 
-In this episode, I spoke with [Alex Schladebeck, Head of Software Quality and Test Consulting at BREDEX
-GmbH][@alex_schl]. We explored her working hypothesis of empathic management, which she shortly describes as "servant
-leadership with hearts".
+In this episode, I spoke with [Alex Schladebeck, CEO of BREDEX GmbH][@alex_schl]. We explored her working hypothesis of
+empathic management, which she shortly describes as "servant leadership with hearts".
 
 We speak about human connection, being present for your team, showing you are human, and understanding life outside of
 work. I think our conversation shows that Alex truly cares about others as a part of who she is as a person. Which made
