@@ -61,7 +61,7 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [contact]: /contact/
 [twitter]: https://twitter.com/stegro
 [linkedin]: https://www.linkedin.com/in/srl32
-[spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
+[spotify-show]: https://open.spotify.com/episode/5l4YSwCueX8JkcaxuW5Ss7
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
 [sre-book]: https://landing.google.com/sre/sre-book/toc/index.html
 [lara]: https://larahogan.me/blog/why-cant-they-just/
