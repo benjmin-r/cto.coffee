@@ -66,3 +66,4 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [sre-book]: https://landing.google.com/sre/sre-book/toc/index.html
 [lara]: https://larahogan.me/blog/why-cant-they-just/
 [camille]: http://www.camilletalk.com/whilefalse/2015/12/reorgs-happen.html
+[socrates]: https://www.socrates-conference.de/home
