@@ -59,6 +59,7 @@ Enjoy!
 ### Download
 
 [cto.coffee - Episode 06 - "Symbolic & Observational Thinking" with Yulia Startsev]({{ page.file }})
+or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 07-Nov-2018.
 
@@ -108,3 +109,4 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [carnivalesque]: https://en.wikipedia.org/wiki/Carnivalesque
 [bakhtin]: https://en.wikipedia.org/wiki/Mikhail_Bakhtin
 [symmathesy]: https://the-composition.com/the-origins-of-opera-and-the-future-of-programming-bcdaf8fbe960
+[spotify-show]: https://open.spotify.com/episode/013XvUrNDTmc4DFuf1yjng

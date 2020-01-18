@@ -37,7 +37,7 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 08 - Empathic Management with Alex Schladebeck]({{ page.file }})
+[cto.coffee - Episode 08 - Empathic Management with Alex Schladebeck]({{ page.file }}) or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 27-Mar-2019.
 
@@ -54,3 +54,4 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [alex_website]: http://www.schladebeck.de/
 [linkedin]: https://linkedin.com/in/alexandraschladebeck
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
+[spotify-show]: https://open.spotify.com/episode/5IBnJQ0C8yvu22kCgMmQs0

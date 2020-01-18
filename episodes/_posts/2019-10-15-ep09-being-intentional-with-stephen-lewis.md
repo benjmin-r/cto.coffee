@@ -32,8 +32,8 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 09 - Being Intentional with Stephen Lewis]({{ page.file }}) or listen to the episode on
-[Spotify][spotify-show].
+[cto.coffee - Episode 09 - Being Intentional with Stephen Lewis]({{ page.file }})
+or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 15-Oct-2019.
 
