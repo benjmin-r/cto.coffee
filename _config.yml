@@ -3,11 +3,11 @@ title:       "cto.coffee - Let's talk people & tech"
 lang:        'en'
 email:       benjamin@cto.coffee
 author:      Benjamin Reitzammer
-description: "cto.coffee is a podcast and blog about people in technology. The podcast features short conversations where we talk about the people side of technology and developing software."
+description: "cto.coffee is a podcast and blog about people in technology. It features short conversations where we talk about the people side of technology and developing software."
 subtitle:    "The podcast & blog for people in tech who care about people."
 baseurl:     "/"
 url:         "https://cto.coffee"
-copyright:  "&#x2117; &amp; &#xA9; 2017-2019"
+copyright:  "&#x2117; &amp; &#xA9; 2017-2020"
 keywords:   technology,cto,leadership,management,people,techlead,agile,softwaredevelopment
 
 show_related_posts: false
@@ -15,8 +15,6 @@ show_post_footers:  false
 
 # Build settings
 markdown: kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
 permalink: /:year/:month/:day/:title/
 sass:
   compressed: true
