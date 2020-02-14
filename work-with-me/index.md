@@ -5,10 +5,6 @@ description: "Find out more about Benjamin, what he cares about and how he can w
 permalink: /work-with-me/
 ---
 
-<style>
-#a-snapshot-of-work-ive-done-in-the-past + ul em { background-color: #fffd91; box-shadow: 0.25em 0 0 #fffd91,-0.25em 0 0 #fffd91; }
-</style>
-
 <p>
   <img id="aboutimg" style="float:left; margin:0 15px 15px 0;" src="/static/img/benjamin.jpg" />
   Hi 👋,
@@ -21,19 +17,20 @@ permalink: /work-with-me/
 </p>
 <div style='clear: both;'></div>
 
-### Curious?
+### Me?
 
 In case you want to know more about me, feel free to [have a look at this summary](about) I put together, in where I lay out [my core beliefs](about#my-core-beliefs), that shape all the work I do.
 
-There's also an up-to-date list of [work I've done in the past and recently](past-work).
+There's also an rough list of [work I've done in the past and recently](past-work).
 
-### My Offerings
+### I help your tech team to grow
 
-- Growing your Tech Team
-- tech- and teamlead roundtables
-- Training for Engineering Managers
+I can do that in the following ways:
+- 🚀 Improve your [**recruiting**](past-work#recruiting) efforts and find candidates that can move the needle with you
+- 💪 [**Mentor & train**](past-work#mentor--train) your (remote) team and managers, to become more effective
+- 🧠  [**Coach**](past-work#coach) you, your managers and your team in working with and overcoming your current challenges
 
 
-### Let's talk
+### Interested? Let's talk
 
 Sounds like what you need? Then [write me a sentence or two](/contact) about your current challenges.
