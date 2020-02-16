@@ -27,14 +27,12 @@ Enjoy!
 
 And do [give me shout on Twitter][benjamin] or [send me a message][contact] with your thoughts about this episode.
 
-
 ### Download
 
 [cto.coffee - Episode 10 - Building Team Trust with Daniel Jilg]({{ page.file }})
 or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 15-Oct-2019.
-
 
 ### Transcript
 
@@ -60,7 +58,6 @@ _~39min_ [#humansconf][humansconf], the conference centered around the most impo
 It happens 21-23 May 2020, [close to Frankfurt/Main in Germany][humansconf-venue].
 
 _~40min_ Daniel’s App [Libi - Your personal mood and libido tracker][libi]
-
 
 The intro/outro music in the podcast was made with Sonic Pi from [this code][intro-music].
 
