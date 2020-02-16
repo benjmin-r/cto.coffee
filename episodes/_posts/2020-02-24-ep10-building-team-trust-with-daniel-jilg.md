@@ -32,7 +32,7 @@ And do [give me shout on Twitter][benjamin] or [send me a message][contact] with
 [cto.coffee - Episode 10 - Building Team Trust with Daniel Jilg]({{ page.file }})
 or listen to the episode on [Spotify][spotify-show].
 
-This episode was recorded on 15-Oct-2019.
+This episode was recorded on 09-Jan-2020.
 
 ### Transcript
 
