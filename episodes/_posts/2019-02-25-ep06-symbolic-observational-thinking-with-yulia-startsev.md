@@ -4,7 +4,6 @@ title: Episode 06 - "Symbolic & Observational Thinking" with Yulia Startsev
 date: 2019-03-06
 permalink: /episodes/ep06-symbolic-observational-thinking-with-yulia-startsev
 published: true
-excerpt: "For this episode, I had the honour to sit with Yulia, who works on Firefox's Developer Tools at Mozilla and is also Co-Chair of Ecma's TC39 in 2019. We talk about symbolic and observational thinking, what it is, how it relates to software development and how it can shape the way we think about learning and teaching."
 summary: "For this episode, I had the honour to sit with Yulia, who works on Firefox's Developer Tools at Mozilla and is also Co-Chair of Ecma's TC39 in 2019. We talk about symbolic and observational thinking, what it is, how it relates to software development and how it can shape the way we think about learning and teaching."
 keywords: technology,leadership,teaching,people,techlead,agile,softwaredevelopment,javascript,compassionatecoding
 file: http://files.cto.coffee/ep06-symbolic-observational-thinking-with-yulia-startsev/cto.coffee__ep06.mp3

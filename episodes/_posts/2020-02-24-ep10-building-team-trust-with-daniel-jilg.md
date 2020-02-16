@@ -4,7 +4,6 @@ title: Episode 10 - Building Team Trust with Daniel Jilg
 date: 2020-02-24
 permalink: /episodes/ep10-building-team-trust-with-daniel-jilg/
 published: true
-excerpt: "For episode 10 I spoke to Daniel Jilg, a freelance CTO and developer. The main theme of our conversation was building team trust. Daniel shares his learnings and mistakes as a leader and CTO. We learn about his background of how he has grown from these learnings and used them to become a better leader."
 summary: "For episode 10 I spoke to Daniel Jilg, a freelance CTO and developer. The main theme of our conversation was building team trust. Daniel shares his learnings and mistakes as a leader and CTO. We learn about his background of how he has grown from these learnings and used them to become a better leader."
 keywords: technology,leadership,teaching,people,techlead,cto,trust,teambuilding
 file: http://files.cto.coffee/ep10-building-team-trust-with-daniel-jilg/cto.coffee__ep10.mp3

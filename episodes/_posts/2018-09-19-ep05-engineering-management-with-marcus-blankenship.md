@@ -4,7 +4,6 @@ title: Episode 05 - "Engineering Management" with Marcus Blankenship
 date: 2018-11-25
 permalink: /episodes/ep05-engineering-management-with-marcus-blankenship
 published: true
-excerpt: "Marcus Blankenship, long-time management and leadership coach, agreed to join me for a chat about Engineering Management. About 'management as a profession and leadership as a skill' and to discuss the shift in Engineering Management over the last years, what this new or not-so-new kind of Engineering Management is, what it's practices are and some opinions and pointers where it's coming from."
 summary: "Marcus Blankenship, long-time management and leadership coach, agreed to join me for a chat about Engineering Management. About 'management as a profession and leadership as a skill' and to discuss the shift in Engineering Management over the last years, what this new or not-so-new kind of Engineering Management is, what it's practices are and some opinions and pointers where it's coming from."
 keywords: technology,cto,leadership,developerrelations,developer,principal,management,manager,1on1,marcusblankenship,blankenship
 file: http://files.cto.coffee/ep05-engineering-management-with-marcus-blankenship/cto.coffee__ep05.mp3

@@ -4,7 +4,6 @@ title: Episode 09 - Being Intentional with Stephen Lewis
 date: 2020-01-18
 permalink: /episodes/ep09-being-intentional-with-stephen-lewis/
 published: true
-excerpt: "In this episode, I spoke with Stephen Lewis, CTO at Palatinate Tech at the time of the recording. While we touch on a lot of topics, I think the main themes of our conversation are being intentional in your leadership, failing and the multiple benefits you get by building a trusted network of peers."
 summary: "In this episode, I spoke with Stephen Lewis, CTO at Palatinate Tech at the time of the recording. While we touch on a lot of topics, I think the main themes of our conversation are being intentional in your leadership, failing and the multiple benefits you get by building a trusted network of peers."
 keywords: technology,leadership,teaching,people,techlead,agile,empathy,empathicmanagement,management,sympathy
 file: http://files.cto.coffee/ep09-being-intentional-with-stephen-lewis/cto.coffee__ep09.mp3

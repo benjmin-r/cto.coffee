@@ -4,7 +4,6 @@ title: Episode 08 - Empathic Management with Alex Schladebeck
 date: 2020-01-07
 permalink: /episodes/ep08-empathic-management-with-alex-schladebeck
 published: true
-excerpt: 'In this episode, I spoke with Alex Schladebeck, CEO at BREDEX GmbH, explored her working hypothesis of empathic management, which she shortly describes as "servant leadership with hearts".'
 summary: 'In this episode, I spoke with Alex Schladebeck, CEO at BREDEX GmbH, explored her working hypothesis of empathic management, which she shortly describes as "servant leadership with hearts".'
 keywords: technology,leadership,teaching,people,techlead,agile,empathy,empathicmanagement,management,sympathy
 file: http://files.cto.coffee/ep08-empathic-management-with-alex-schladebeck/cto.coffee__ep08.mp3
