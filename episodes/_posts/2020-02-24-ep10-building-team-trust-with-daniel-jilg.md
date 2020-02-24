@@ -23,7 +23,7 @@ We discuss not losing yourself in the technical parts of work and keeping in tou
 Along these same lines, we  then discuss being willing to listen to your team, how to not be a bystander of bad workplace behaviours, speaking up when necessary, and becoming an ally. 
 
 My favorite quote from what Daniel said occurs at ~13min:
-> As white, cis men we are often unaware of the damage we're doing. So if you have who is part of a minority in tech, then it's even more important that you educate yourself about their situation and try to empathize with them and be willing to listen about their experience in that regard.
+> As white, cis men we are often unaware of the damage we're doing. So if you have someone on the team who is part of a minority in tech, then it's even more important that you educate yourself about their situation and try to empathize with them and be willing to listen about their experience in that regard.
 
 
 ### Download
