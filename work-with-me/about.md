@@ -1,20 +1,23 @@
 ---
 layout: page
-title: "About Benjamin & cto.coffee"
+title: "About Benjamin"
 description: ""
 permalink: /work-with-me/about
 ---
 
-### Who am I
+<p>
+  <img class="aboutimg" src="/static/img/benjamin.jpg" />
 
-I’m a generalist, with roughly 20 years experience of working in information technology. Starting out as a System-
-Administrator-turned-Software-Developer, I moved to Engineering Management positions over time. Some of the last roles I
-held include four years as CTO of Robo-Advisor Fintech [vaamo](https://www.vaamo.de), Teamlead in Marketing Agencies, Ruby on
-Rails Developer in a SaaS company.
+  I’m a generalist, with over 20 years experience of working in information technology.
 
-In all my roles I aim to foster empathetic teams with a culture of continuous improvement, personal growth and
-leadership on all levels. I think it’s imperative to work with diverse and cross-functional teams in increments, in
-order to sustainably and continuously build relevant solutions.
+  <br>
+  <br>
+  I've held most of the roles there are in a typical software development organisation, and I still code.
 
-Through my work in the software development community over the last years, organizing conferences and meetups, I’m
-well-connected in the community and delivered talks and workshops in a wide range of events.
+</p>
+<div style='clear: both;'></div>
+
+However, over the last years I found that I'm most effective when I help an organisation grow.
+
+When not collaborating and co-creating with people to make workplaces more effective and humane, I enjoy hanging out with my family,
+[riding my Gravel Bike](https://www.strava.com/athletes/43411671), [organise #humansconf](https://humansconf.org), [like to read](https://twitter.com/benjamin/status/1251133303131963395/photo/1) and hang out in our garden.
