@@ -2,7 +2,7 @@
 layout: post
 title: Episode 11 - About Being a Generalist with April Matias
 date: 2020-03-31
-permalink: /episodes/ep11-about-being-a-egneralist-with-april-matias/
+permalink: /episodes/ep11-about-being-a-generalist-with-april-matias/
 published: true
 summary: "For this episode I spoke with April Matias, a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer bootcamp to expand her knowledge and skills."
 keywords: technology,generalist,specialist,careerchange,people,cto
