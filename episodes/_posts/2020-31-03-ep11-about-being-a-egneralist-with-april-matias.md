@@ -14,10 +14,9 @@ block: "no"
 ---
 
 # Episode 11
-
 ## About Being a Generalist with April Matias
 
-This episode I spoke with[April Matias](https://www.linkedin.com/in/amts/), a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer Bootcamp to expand her knowledge and skills.
+This episode I spoke with [April Matias](https://www.linkedin.com/in/amts/), a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer Bootcamp to expand her knowledge and skills.
 
 We talked about what a QA person does at a startup, their value proposition, where they fit into the company, and how learning development skills can help you to fit in and make your goal more scalable.
 
@@ -26,13 +25,13 @@ My Favorite quote from our conversation occurs at ~23min:
 
 ### Download
 
-cto.coffee - Episode 11 - QA Generalist To Developer with April Matias or listen to the episode on [Spotify][spotify-show].
+cto.coffee - [Episode 11 - QA Generalist To Developer with April Matias]({{page.file}}) or listen to the episode on [Spotify](https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq).
 
 This episode was recorded on 11-March-2020.
 
 ### Transcript
 
-You can also read the [transcription](transcript) of this episode.
+You can also read the [transcription](transcript) of this episode (coming soon).
 
 ### Show Notes
 Connect with April on[Linkedin](https://www.linkedin.com/in/amts/).
@@ -69,6 +68,8 @@ _~40_ [Basecamp](https://basecamp.com/) - a company with high employee satisfact
 
 _~44_ Needing cues that you belong and the concern of employability
 
-The intro/outro music in the podcast was made with Sonic Pi from[this code](https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb).
+The intro/outro music in the podcast was made with Sonic Pi from [this code](https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb).
 
-March 30, 2020 || 2.3 minute read
+
+
+March 30, 2020 || 2.7 minute read
