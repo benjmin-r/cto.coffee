@@ -6,7 +6,7 @@ permalink: /work-with-me/
 ---
 
 <p>
-  <img id="aboutimg" style="float:left; margin:0 15px 15px 0;" src="/static/img/benjamin.jpg" />
+  <img class="aboutimg" src="/static/img/benjamin.jpg" />
   Hi 👋,
   <br>
   my name is Benjamin Reitzammer, I'm a Freelance CTO and Developer and I'm very much interested to get to know you.

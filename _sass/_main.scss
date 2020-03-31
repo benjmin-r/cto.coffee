@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+.aboutimg {
+  float: left;
+  margin: 0 15px 15px 0;
+}
+
 #show-notes ~ p em {
     margin-right: 20px;
     border-bottom: 1px solid #000;
@@ -478,7 +483,7 @@ h6,
 }
 
 @media screen and (max-width: 48em) {
-  #aboutimg {
+  .aboutimg {
     width: 40%;
   }
 

@@ -4,7 +4,7 @@ title: Episode 11 - About Being a Generalist with April Matias
 date: 2020-03-31
 permalink: /episodes/ep11-about-being-a-egneralist-with-april-matias/
 published: true
-summary: "For this episode I spoke with April Matias, a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer Bootcamp to expand her knowledge and skills."
+summary: "For this episode I spoke with April Matias, a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer bootcamp to expand her knowledge and skills."
 keywords: technology,generalist,specialist,careerchange,people,cto
 file: http://files.cto.coffee/About_Being_a_Generalist_with_April_Matias.mp3
 duration: "47:54"
@@ -16,7 +16,12 @@ block: "no"
 # Episode 11
 ## About Being a Generalist with April Matias
 
-This episode I spoke with [April Matias](https://www.linkedin.com/in/amts/), a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer bootcamp to expand her knowledge and skills.
+<p>
+  <img class="aboutimg" src="/static/img/april-matias.jpg" />
+
+  This episode I spoke with <a href="https://www.linkedin.com/in/amts/">April Matias</a>, a Senior Quality Assurance Engineer from Berlin. April has a background in arts and humanities, worked in quality assurance for several years and has recently taken a developer bootcamp to expand her knowledge and skills.
+</p>
+<div style='clear: both;'></div>
 
 We talked about what a QA person does at a startup, their value proposition, where they fit into the company, and how learning development skills can help you to fit in and make your goal more scalable.
 
