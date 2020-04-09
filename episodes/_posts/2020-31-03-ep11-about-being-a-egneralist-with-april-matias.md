@@ -26,7 +26,7 @@ block: "no"
 We talked about what a QA person does at a startup, their value proposition, where they fit into the company, and how learning development skills can help you to fit in and make your goal more scalable.
 
 My favorite quote from our conversation occurs at ~23min:
-> Being aware that your own experience or own conception of someone else'ss experience can not possibly represent your target audience.
+> Being aware that your own experience or own conception of someone else's experience can not possibly represent your target audience.
 
 ### Download
 
@@ -36,7 +36,7 @@ This episode was recorded on 11-March-2020.
 
 ### Transcript
 
-You can also read the [transcription](transcript) of this episode (coming soon).
+Transcription of this episode is coming soon.
 
 ### Show Notes
 
