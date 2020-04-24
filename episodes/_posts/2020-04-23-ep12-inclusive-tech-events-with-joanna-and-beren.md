@@ -17,14 +17,19 @@ block: "no"
 ## About Inclusive Events with Joanna and Beren
 
 <p>
-  <img class="aboutimg" src="" />
+  <img class="aboutimg" src="/static/img/ep12-joanna.jpg" />
+</p>
+<div style='clear: both;'></div>
+
+<p>
+  <img class="aboutimg" src="/static/img/ep12-beren.jpg" />
 
 </p>
 <div style='clear: both;'></div>
 
 
 
-If you want to know more about the [ITMatters][itmatters] conference series, take a look at the talk ["Burnout syndrome – addressing the elephant in the room" by Daria Dorda](https://www.youtube.com/watch?v=t05VCUgrQ48n) which is from the 2019 event.
+[ITMatters][itmatters] is conference series that started in 2019 in Poland. Take a look at the ["Burnout syndrome – addressing the elephant in the room" talk by Daria Dorda][itm-talk] which is from the 2019 event, to get a feeling for the topics discussed at ITMatters.
 
 
 ### Download
@@ -53,3 +58,4 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
 [itmatters]: https://itmatters.pl/
+[itm-talk]: https://www.youtube.com/watch?v=t05VCUgrQ48n
