@@ -1,6 +1,6 @@
 # Source of the [cto.coffee](https://cto.coffee) website
 
-Design based on [pixyll.com](http://www.pixyll.com)
+Design based on [pixyll](https://github.com/johno/pixyll)
 
 ### License
 
