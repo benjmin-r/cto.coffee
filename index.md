@@ -6,10 +6,12 @@ title: "Let's talk about people & tech"
 cto.coffee is a podcast about people in technology. It features short conversation between [me](/work-with-me)
 and varying guests, where we talk about the people side of technology and developing software.
 
-If you like talking about the human side of technology, then I'd love to talk to you. Do [reach out](/contact/) and let's
-have a chat.
+<span class="fa fa-rss"></span> Subscribe to the [podcast's feed](/feed), follow the show on [Spotify][spotify-show] or on [Apple Podcasts][apple-podcasts-show].
 
-And if you're interested in getting occasional (max. 1 per month) emails with updates from this site and what I'm
+
+### cto.coffee Newsletter
+
+If you're interested in getting occasional (max. 1 per month) emails with updates from this site and what I'm
 learning on my journey to become a better human and leader, subscribe to my newsletter.
 
 {% include mailerlite-form.html %}
@@ -31,3 +33,7 @@ learning on my journey to become a better human and leader, subscribe to my news
 <div class="u-cf"></div>
 
 [→ All Podcast Episodes](/episodes)
+
+
+[spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
+[apple-podcasts-show]: https://podcasts.apple.com/de/podcast/cto-coffee-lets-talk-people-tech/id1327337875?l=en
