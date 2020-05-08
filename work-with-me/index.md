@@ -26,6 +26,8 @@ All of my work is guided by the following beliefs:
 **People first**: People are not a resource. People are the foundation and pillars of every tech-related organization, and therefore should be treated as such. With humanity, dignity, respect, empathy, openness, to enable strong
 relationships rooted in trust and clear communication.
 
+**High performance teams are built on human connection**: A myriad of factors go into enabling teams to be high performing. That said, for me one of foundational factors that enables high performance, is the active nurturing of human connection between all members of a team. Human connection enables better and deeper communication, and not the least psychological safety.
+
 **Everything is a system**: There are no silver bullets to any of your challenges, and most of the times also no straightforward solution. No Agile is the same in any company, not one technology xyz can be the only answer to a team's or organization's challenges.  
 Instead in order to overcome challenges, we must look at teams, their current solutions and their challenges holistically, and improve them with clear, measurable experiments.
 
