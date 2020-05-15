@@ -3,9 +3,7 @@ layout: layout
 ---
 ## cto.coffee Podcast
 
-The cto.coffee podcast is a series where [I](/about) chat with varying guests about the people side
-of technology and developing software, preferably while having a coffee together.
-The blog
+The cto.coffee podcast is a series where [I](/about) chat with varying guests about the human side of technology and developing software, preferably while having a coffee together.
 
 You like talking about the human side of technology? I'd love to talk to you then, do [reach out](/contact) and let's
 have a chat.

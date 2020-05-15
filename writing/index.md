@@ -3,8 +3,7 @@ layout: layout
 ---
 ## Writing
 
-[My](/work-with-me) writing is mainly my thoughts and opinions on people in tech. Namely all things leadership,
-management, how to collaborate effectively and how to foster empathetic teams.
+[My](/work-with-me) writing is mainly my thoughts and opinions on humans in tech. Namely all things leadership, management, how to collaborate effectively and how to foster empathetic teams.
 
 ----
 
