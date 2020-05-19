@@ -92,8 +92,6 @@ _~42min_ Finding balance in dealing with each other and working as a team during
 
 The intro/outro music in the podcast was made with Sonic Pi from [this code][intro-music].
 
-[contact]: /contact/
-[benjamin]: https://twitter.com/benjamin
 [joanna-twitter]: https://twitter.com/joanna_mocko
 [beren-twitter]: https://twitter.com/isleoftesting
 [joanna-linkedin]: https://www.linkedin.com/in/joanna-mo%C4%87ko-%C5%82azarewicz-33051471/

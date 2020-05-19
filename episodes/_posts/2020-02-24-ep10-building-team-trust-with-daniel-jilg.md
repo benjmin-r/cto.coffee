@@ -66,8 +66,6 @@ _~40min_ Daniel’s App: [Libi - Your personal mood and libido tracker][libi]
 
 The intro/outro music in the podcast was made with Sonic Pi from [this code][intro-music].
 
-[contact]: /contact/
-[benjamin]: https://twitter.com/benjamin
 [twitter]: https://twitter.com/breakthesystem
 [linkedin]: http://linkedin.com/in/danieljilg
 [spotify-show]: https://open.spotify.com/episode/5l4YSwCueX8JkcaxuW5Ss7
