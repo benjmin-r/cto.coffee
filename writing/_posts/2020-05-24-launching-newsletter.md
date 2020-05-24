@@ -4,7 +4,7 @@ title: Launching the cto.coffee Newsletter
 date: 2020-05-24
 permalink: /writing/launching-cto-coffee-newsletter
 published: true
-summary: ""
+summary: "End of April 2020 I sent out the first edition of my cto.coffee newsletter. It's meant as an experiment, for me to share more regularly what I'm paying attention to (Thanks, Richard Bartlett, for this great framing) and what is going on in cto.coffee land but also generally on my end."
 keywords: technology,cto,leadership,management
 ---
 
