@@ -7,8 +7,8 @@ published: true
 summary: "In this episode I spoke with James Bedford. James started his career in construction, later became a self taught Frontend Developer and is now an Engineering Manager at Monzo."
 keywords: technology,diversity,inclusion,coronavirus,self-taught
 file: http://files.cto.coffee/ep13-about-engineering-culture-health-checks-with-james-bedford/cto.coffee__ep13.mp3
-duration: "38:28"
-length: ""
+duration: "37:38"
+length: "54314512"
 explicit: "no"
 block: "no"
 ---
@@ -80,6 +80,10 @@ _~35min_ Explanation of what checks are, what they aren't, and intentions
 
 The intro/outro music in the podcast was made with Sonic Pi from [this code][intro-music].
 
+### Production & Editing
+
+This cto.coffee podcast episode was edited and prepared for publishing by [Namos Studio][namos].
+
 [monzo]: https://monzo.com/
 [james-twitter]: https://twitter.com/jameesy
 [james-devto]: https://dev.to/jameesy
@@ -91,3 +95,4 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 [free-code-camp]: [https://www.freecodecamp.org/]
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
+[namos]: https://namosstudio.com/
