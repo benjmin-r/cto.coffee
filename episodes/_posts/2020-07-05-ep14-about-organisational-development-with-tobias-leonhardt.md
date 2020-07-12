@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 14 - About Organizational Development with Tobias Leonhardt
-date: 2020-07-05
+date: 2020-07-12
 permalink: /episodes/ep14-about-organizational-development-with-tobias-leonhardt/
 published: true
 summary: "In this episode, I spoke with Tobias Leonhardt. Tobias helps organizations scale by coaching them to nurture trusting cultures and helping them establish scalable organizational models, where individuals are trusted with high autonomy."
