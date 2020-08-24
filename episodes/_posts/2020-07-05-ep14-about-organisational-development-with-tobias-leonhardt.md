@@ -7,8 +7,8 @@ published: true
 summary: "In this episode, I spoke with Tobias Leonhardt. Tobias helps organizations scale by coaching them to nurture trusting cultures and helping them establish scalable organizational models, where individuals are trusted with high autonomy."
 keywords: technology,diversity,inclusion,coronavirus,self-taught
 file: http://files.cto.coffee/ep14-about-organizational-development-with-tobias-leonhardt/cto.coffee__ep14.mp3
-duration: ""
-length: ""
+duration: "37:02"
+length: "53453946"
 explicit: "no"
 block: "no"
 ---
