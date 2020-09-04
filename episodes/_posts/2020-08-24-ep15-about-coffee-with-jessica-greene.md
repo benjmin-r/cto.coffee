@@ -22,9 +22,9 @@ block: "yes"
 </p>
 <div style='clear: both;'></div>
 
-Jessica is a Software Developer at [Ecosia][ecosia] and a Co-Organiser at [PyLadies Berlin][pyladies-ber]. So of course, we also talk a bit about tech and community building.
+Jessica is a Software Developer at [Ecosia][ecosia] and a Co-Organiser at [PyLadies Berlin][pyladies-ber]. So of course, we also talk a bit about tech and community building. 
 
-My favorite quotes from our conversation or when we talk about I'm brewing in the office and how coffee relates to tech.
+My favorite quotes from our conversation are when we talk about what we're brewing in the office and how coffee relates to tech.
 
 The first occurs around ~21min:
 
@@ -33,6 +33,21 @@ The first occurs around ~21min:
 Another favorite quote from our conversation occurred around ~34min:
 
 > For me, one of the real strengths, I think have been my communication skills. Like I would spend a whole day almost in a cafe talking to people. [...] You know, keeping an eye on cleaning the coffee and cleaning the cafe and kind of making sure everything was running smoothly. It's like programming, but in real life, like on a different level it's problem-solving.
+
+#### Why This Is a Special Episode
+
+Beyond having an interesting conversation with an amazing person, there's another reason why this episode is very dear to my heart.
+
+The [name cto.coffee][name], with it the celebration of coffee, and its story is something I cherish a lot, as it's part of a significant story of my life and a big part of why I am the person I am today. The name was coined while I was working at [vaamo][vaamo-crunchbase], a place where we celebrated coffee quite a bit. But more importantly working there, allowed me to confirm my theory that treating people as humans and not resources, does not only yield better work results, but is better on all levels. You get to build meaningful relationships, have meaningful conversations about people and products. It's just more human. 
+
+And it all really brought me to start this podcast, which enabled me to have even many more meaningful conversations. This in turn, plays a little part in making more people aware that, yes, people are more important than technology. The way you collaborate with others, as a team, has much more impact on a team's and product's success and people's well-being, than whatever framework or programming language you choose.
+
+By now, in 2020, this is more than just my personal opinion and experience. But lots of research (search for "Psychological Safety", "Accelerate", Brene Brown's "Daring Greatly", to name only a few) have shown that collaborating in a humane way is the way to go, if you want to have a successful team and deliver successful products.
+
+All this means, this episode, even though we talk about tech very shortly, to me represents the belief in and the success of human and human connection in the workplace.
+
+People first. Always. And everything else follows.
+
 
 ### Download
 
@@ -92,6 +107,8 @@ This cto.coffee podcast episode was edited and prepared for publishing by [Namos
 [jessica-twitter]: https://twitter.com/sleepypioneer
 [pyladies-ber]: https://twitter.com/PyLadiesBer
 [ecosia]: https://www.ecosia.org/
+[name]: /story-behind-the-name/
+[vaamo-crunchbase]: https://www.crunchbase.com/organization/vaamo-finanz-ag
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
 [namos]: https://namosstudio.com/
