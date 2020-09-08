@@ -38,13 +38,13 @@ Another favorite quote from our conversation occurred around ~34min:
 
 Beyond having an interesting conversation with an amazing person, there's another reason why this episode is very dear to my heart.
 
-The [name cto.coffee][name], with it the celebration of coffee, and its story is something I cherish a lot, as it's part of a significant story of my life and a big part of why I am the person I am today. The name was coined while I was working at [vaamo][vaamo-crunchbase], a place where we celebrated coffee quite a bit. But more importantly working there, allowed me to confirm my theory that treating people as humans and not resources, does not only yield better work results, but is better on all levels. You get to build meaningful relationships, have meaningful conversations about people and products. It's just more human. 
+The [name cto.coffee][name], its story, and with it the celebration of coffee, is something I cherish a lot, as it's part of a significant story of my life and a big part of why I am the person I am today. The name was coined while I was working at [vaamo][vaamo-crunchbase], a place where we celebrated coffee quite a bit. But more importantly, working there allowed me to confirm my theory that treating people as humans and not resources, does not only yield better work results in the form of better, more high quality products and services, but is better on all levels. Be it by allowing you to build meaningful relationships, or by being able to have meaningful conversations about people and products. It's all just more human. 
 
-And it all really brought me to start this podcast, which enabled me to have even many more meaningful conversations. This in turn, plays a little part in making more people aware that, yes, people are more important than technology. The way you collaborate with others, as a team, has much more impact on a team's and product's success and people's well-being, than whatever framework or programming language you choose.
+And it all really brought me to start this podcast. Which enabled me to have even many more meaningful conversations. This in turn, plays a little part in making more people aware that, yes, people are more important than technology. The way you collaborate with others, as a team, has much more impact on a team's and product's success and people's well-being, than whatever framework or programming language you choose.
 
 By now, in 2020, this is more than just my personal opinion and experience. But lots of research (search for "Psychological Safety", "Accelerate", Brene Brown's "Daring Greatly", to name only a few) have shown that collaborating in a humane way is the way to go, if you want to have a successful team and deliver successful products.
 
-All this means, this episode, even though we talk about tech very shortly, to me represents the belief in and the success of human and human connection in the workplace.
+All this means this episode, even though we talk about tech very shortly, to me represents the belief in and the success of humans and human connection in the workplace.
 
 People first. Always. And everything else follows.
 
