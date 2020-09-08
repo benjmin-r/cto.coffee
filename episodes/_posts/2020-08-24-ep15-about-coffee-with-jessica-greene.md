@@ -7,8 +7,8 @@ published: true
 summary: "In this episode, I spoke with Jessica Greene and we talk about a subject dear to my heart and what keeps our podcast going. Coffee. It's time there's an episode that lives up to the name, and Jessica helped do just that! We talked about how Jessica fell in love with coffee and became a barista, the history of coffee, the roasting process, brewing and so much more. Jessica is a Software Developer at Ecosia and a Co-Organiser at PyLadies Berlin. So of course, we also talk a bit about tech and community building."
 keywords: coffee,brewing,technology,diversity,inclusion,
 file: http://files.cto.coffee/ep15-about-coffee-with-jessica-greene/cto.coffee-ep15-about-coffee-with-jessica-greene.mp3
-duration: "46:05"
-length: "66517756"
+duration: "45:27"
+length: "65561449"
 explicit: "yes"
 block: "yes"
 ---
