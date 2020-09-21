@@ -1,46 +1,65 @@
 ---
 layout: post
 title: Episode 16 - On Humanizing the Workplace with Vivian Acquah
-date: 2020-09-20
+date: 2020-09-22
 permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah
 published: true
-summary: "A conversation with Vivian Aquah, an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace."
+summary: "A conversation with Vivian Acquah, an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace."
 keywords: workplace, workplace wellness, culture, humanize, dehumanize, leadership
-file: http://files.cto.coffee/ep16-on-humanizing-the-workplace-with-vivian-acquah/cto.coffee-ep16-on-humanizing-the-workplace-with-vivian-acquah.mp3
+#file: http://files.cto.coffee/ep16-on-humanizing-the-workplace-with-vivian-acquah/cto.coffee-ep16-on-humanizing-the-workplace-with-vivian-acquah.mp3
+file: https://cdn.transistor.fm/file/transistor/m/shows/12165/74ead77742f91423f50f39b5564e3000.mp3
 duration: "40:53"
 length: "58984021"
-explicit: "yes"
-block: "yes"
+explicit: "no"
+block: "no"
 ---
 
 # Episode 16
 
-## On Humanizing the Workplace with Vivian Aquah 
+## On Humanizing the Workplace with Vivian Acquah 
 
-<p>
-  <img class="aboutimg" src="/static/img/ep16-vivian.jpg" />
-  In this episode, I spoke with Vivian Acquah, an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace.
-</p>
-<div style='clear: both;'></div>
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/7ec48ca0"></iframe>
 
-The first occurs around ~24min:
+_Content Notice:_ At ~26min, suicide is mentioned.
 
-> If you think you are too small to make a difference try sleeping with a mosquito.
+In this episode, I spoke with [Vivian Acquah][vivian-website], an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace.
 
-Another favorite quote from our conversation occurrs around ~36min:
+In our conversation Vivian shared so many great insights, that it's hard to make a selection.
 
-> I want to be seen, I want to be heard. And by not having a person of color or a woman or somebody else with a different background there, it's hard to be seen and be heard. And also know that I was… there are so many layers for people that we need to raise more awareness regarding who people are, what they are, and start meeting them in the middle as a human. I'm human first.
+However, hearing Vivian share this African proverb at ~24min, in the context of how to move the needle when it comes to diversity, equity and inclusion is very powerful:
+
+> If you think you are too small to make a difference, try sleeping with a mosquito.
+
+When talking about how to lead conversations around Diversity at ~35min, Vivian shares that…
+
+> Talking about diversity should never be a battle. It should be a conversation where somebody is open to listen and learn. And if they're not ready yet, then it's not up to you to…. Never force it, because they won't adopt it. The only ways that I want companies to lift their bars, is to really work towards an anti-racism policy and strategy and for the leaders to walk their talk.
+
+and goes on to say…
+
+> I want to be seen, I want to be heard. And by not having a person of color or a woman or somebody else with a different background there, it's hard to be seen and be heard. And also know that I was not only the black person most of the time in the workplace but I was [also] the black woman in the workplace. So, I'm not only dealing with my blackness, but also dealing with the fact that I'm a woman. And there comes the intersectionality. There are so many layers for people that we need to raise more awareness regarding who people are, what they are, and start meeting them in the middle as a human. I'm human first.
+
+Shortly thereafter at ~38min Vivian shares:
+> I know that we all cannot undo what happened 400 years ago. That's not our mission. The only mission that I have is to raise  awareness regarding what happened to the past and why the past is still shackling us from advancing.
 
 
-### Download
+### 📢 Free Tickets for AmplifyDEI 🚨
 
-_CN_ suicide
+Vivian kindly offered me to raffle three free tickets to the [Amplify DEI conference][amplify-dei], a 3-day virtual conference running from 28-30 September 2020, with more than 60 experts sharing about all different aspects of Diversity, Equity & Inclusion.  
+Have a look at [the schedule](https://go.amplifydei.com/schedule/) and [speakers](https://go.amplifydei.com/speakers/).
 
-[cto.coffee - Episode 16 - Vivian Acquah on Humanizing the Workplace]({{page.file}})
+If you'd like to have free access to AmplifyDEI, then sign up for the raffle now.
 
-You can also listen to the episode on [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show].
+{% include amplify-dei-ticket-raffle-form.html %}
+
+_Your name and email address will only be stored and used for the purpose of contacting you with regards to an AmplifyDEI ticket._
+
+
+### Listen & Subscribe Elsewhere
+
+You can also listen to the episode and subscribe to the podcast on the show's [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show] page.
 
 This episode was recorded on 9-September-2020.
+
 
 ### Transcript
 
@@ -48,7 +67,7 @@ The transcript of this episode will be published soon.
 
 ### Show Notes
 
-Connect with Vivian on [Linkedin][vivian-linkedin] or on her [personal website][vivian-website]. Check out and attend the [Amplify DEI conference][amplify-dei].
+Connect with Vivian on [Linkedin][vivian-linkedin], [Twitter][vivian-twitter] or on her [personal website][vivian-website]. Check out and attend the [Amplify DEI conference][amplify-dei].
 
 _~3min_ Vivian shares about her podcast and live broadcasts
 
@@ -64,7 +83,9 @@ _~17min_ Investing in self care, making time to charge, and burnout
 
 _~21min_ How George Floyd's death and Vivian's son influenced Amplify DEI
 
-_~26min_ Taking actionable steps to make a difference, understanding what is the Equity in DEI, and checking privilege
+_~26min_ Taking actionable steps to make a difference
+
+_~28min_ What does the Equity in DEI stand for, and checking privilege
 
 _~31min_ Why it's important to move beyond DEI training, and why you must exercise what you learn
 
@@ -81,9 +102,9 @@ The intro/outro music in the podcast was made with Sonic Pi from [this code][int
 This cto.coffee podcast episode was edited and prepared for publishing by [Namos Studio][namos].
 
 [vivian-linkedin]: https://www.linkedin.com/in/vivianacquah/
-[vivians-website]: https://vivalavive.com/
-[amplify-dei]: https://go.amplifydei.com/
 [vivian-twitter]: https://twitter.com/VivalaViveNL
+[vivian-website]: https://vivalavive.com/
+[amplify-dei]: https://go.amplifydei.com/
 [benjamin-twitter]: https://twitter.com/benjamin
 [benjamin-linkedin]: https://www.linkedin.com/in/benjamin-reitzammer/
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
