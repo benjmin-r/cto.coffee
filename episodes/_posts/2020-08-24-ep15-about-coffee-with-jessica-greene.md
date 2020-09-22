@@ -9,8 +9,8 @@ keywords: coffee,brewing,technology,diversity,inclusion,
 file: http://files.cto.coffee/ep15-about-coffee-with-jessica-greene/cto.coffee-ep15-about-coffee-with-jessica-greene.mp3
 duration: "45:27"
 length: "65561449"
-explicit: "yes"
-block: "yes"
+explicit: "no"
+block: "no"
 ---
 
 # Episode 15
