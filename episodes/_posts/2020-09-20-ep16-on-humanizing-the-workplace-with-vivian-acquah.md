@@ -42,18 +42,6 @@ Shortly thereafter at ~38min Vivian shares:
 > I know that we all cannot undo what happened 400 years ago. That's not our mission. The only mission that I have is to raise  awareness regarding what happened to the past and why the past is still shackling us from advancing.
 
 
-### 📢 Free Tickets for AmplifyDEI 🚨
-
-Vivian kindly offered me to raffle three free tickets to the [Amplify DEI conference][amplify-dei], a 3-day virtual conference running from 28-30 September 2020, with more than 60 experts sharing about all different aspects of Diversity, Equity & Inclusion.  
-Have a look at [the schedule](https://go.amplifydei.com/schedule/) and [speakers](https://go.amplifydei.com/speakers/).
-
-If you'd like to have free access to AmplifyDEI, then sign up for the raffle now.
-
-{% include amplify-dei-ticket-raffle-form.html %}
-
-_Your name and email address will only be stored and used for the purpose of contacting you with regards to an AmplifyDEI ticket._
-
-
 ### Listen & Subscribe Elsewhere
 
 You can also listen to the episode and subscribe to the podcast on the show's [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show] page.
