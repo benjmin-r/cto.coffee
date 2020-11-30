@@ -56,7 +56,7 @@ This episode was recorded on 9-September-2020.
 
 ### Transcript
 
-The transcript of this episode will be published soon.
+You can also read the [transcription](transcript) of this episode.
 
 ### Show Notes
 
