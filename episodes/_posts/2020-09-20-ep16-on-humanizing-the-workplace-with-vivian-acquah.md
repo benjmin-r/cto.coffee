@@ -6,8 +6,7 @@ permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah
 published: true
 summary: "A conversation with Vivian Acquah, an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace."
 keywords: workplace, workplace wellness, culture, humanize, dehumanize, leadership
-#file: http://files.cto.coffee/ep16-on-humanizing-the-workplace-with-vivian-acquah/cto.coffee-ep16-on-humanizing-the-workplace-with-vivian-acquah.mp3
-file: https://cdn.transistor.fm/file/transistor/m/shows/12165/74ead77742f91423f50f39b5564e3000.mp3
+file: http://files.cto.coffee/ep16-on-humanizing-the-workplace-with-vivian-acquah/cto.coffee-ep16-on-humanizing-the-workplace-with-vivian-acquah.mp3
 duration: "40:53"
 length: "58984021"
 explicit: "no"
@@ -18,11 +17,13 @@ block: "no"
 
 ## On Humanizing the Workplace with Vivian Acquah 
 
-<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/7ec48ca0"></iframe>
-
-_Content Notice:_ At ~26min, suicide is mentioned.
-
-In this episode, I spoke with [Vivian Acquah][vivian-website], an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace.
+<p>
+  <img class="aboutimg" src="/static/img/ep16-vivian.jpg" />
+  In this episode, I spoke with <a href="https://vivalavive.com/">Vivian Acquah</a>, an independent workplace wellness
+  advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She
+  tackles that by humanizing the workplace.
+</p>
+<div style='clear: both;'></div>
 
 In our conversation Vivian shared so many great insights, that it's hard to make a selection.
 
@@ -42,7 +43,11 @@ Shortly thereafter at ~38min Vivian shares:
 > I know that we all cannot undo what happened 400 years ago. That's not our mission. The only mission that I have is to raise  awareness regarding what happened to the past and why the past is still shackling us from advancing.
 
 
-### Listen & Subscribe Elsewhere
+### Listen
+
+[Listen to "cto.coffee - Episode 16 - On Humanizing the Workplace with Vivian Acquah"]({{page.file}}).
+
+_Content Notice:_ At ~26min, suicide is mentioned.
 
 You can also listen to the episode and subscribe to the podcast on the show's [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show] page.
 

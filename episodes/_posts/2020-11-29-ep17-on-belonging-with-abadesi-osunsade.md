@@ -71,7 +71,7 @@ I hope you'll learn as much as I did while listening to this episode.
 
 Enjoy!
 
-### Listen & Subscribe Elsewhere
+### Listen
 
 [Listen to "cto.coffee - Episode 17 - On Belonging with Abadesi Osunsade"]({{page.file}}).
 
