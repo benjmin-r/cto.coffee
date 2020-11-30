@@ -22,17 +22,6 @@ stored for less than 30 days.
 See [Netlify's privacy policy][netlify-gdpr] for more details.
 
 
-### Formspree
-
-If you contact me using the [contact form](/contact), your data is sent to me via the [Formspree platform][formspree].
-Formspree collects information about you (incl. your IP address, browser type, access times and that you used the form
-via the cto.coffee domain), for each time you submit the [contact form](/contact).
-They state to use this data only within Formspree and don't sell data obtained in this way.
-
-However the latest reference on what data Formspree collects and how it uses that data is to be found in their [privacy
-policy][formspree-privacy].
-
-
 ### Mailerlite
 
 Visitors of the cto.coffee website can choose to submit their email-address, to get notified of content updates
@@ -66,19 +55,6 @@ für jeden Abruf einer Seite von cto.coffee mindestens ein Eintrag Ihrer IP Adre
 Netlify erfolgt.
 
 Mehr Informationen hierzu finden sich in [Netlify's Datenschutzbestimmungen][netlify-gdpr]
-
-
-### Formspree
-
-Wenn Sie mich via [Kontakt-Formular](/contact) kontaktieren, werden die im Formular angegebenen Daten an via der
-[Formspree Plattform][formspree] an mich übertragen. Formspree speichert hierbei verschiedene Daten von Ihnen (inkl.
-Ihrer IP Adresse, Typ Ihres Browsers, Zeit des Zugriffs und dass sie via der Domain cto.coffee den Service benutzt
-haben), für jedes Absenden des Kontakt-Formulars.  
-Formspree schreibt in seinen [Datenschutzbestimmungen][formspree-privacy], dass Sie die auf diese Art und
-Weise gesammelten Daten ausschließlich intern verwenden und nicht weiterverkaufen.
-
-Da sich diese Informationen auch ohne mein Wissen ändern können, sind ausschließlich die [Datenschutzbestimmungen von
-Formspree][formspree-privacy] hierüber aussagekräftig.
 
 
 ### Mailerlite
