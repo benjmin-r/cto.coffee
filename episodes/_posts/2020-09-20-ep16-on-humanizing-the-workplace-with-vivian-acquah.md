@@ -60,7 +60,7 @@ The transcript of this episode will be published soon.
 
 ### Show Notes
 
-Connect with Vivian on [Linkedin][vivian-linkedin], [Twitter][vivian-twitter] or on her [personal website][vivian-website]. Check out and attend the [Amplify DEI conference][amplify-dei].
+Connect with Vivian on [Linkedin][vivian-linkedin], [Twitter][vivian-twitter] or on her [personal website][vivian-website].
 
 _~3min_ Vivian shares about her podcast and live broadcasts
 
