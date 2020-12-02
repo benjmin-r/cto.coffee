@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Episode 17 - On Belonging with Abadesi Osunsade
-date: 2020-09-22
+date: 2020-11-29
 permalink: /episodes/ep17-on-belonging-with-abadesi-osunsade
 published: true
 summary: "In this episode I talked to Abadesi Osunsade, the CEO and founder of hustlecrew, and also the VP of global community and belonging at Brandwatch. We talk about all kinds of aspects of belonging in the workplace."
