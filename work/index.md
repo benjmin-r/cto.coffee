@@ -1,23 +1,20 @@
 ---
 layout: page
 title: "Work with me"
-description: "Find out more about Benjamin, what he cares about and how he can work with you."
-permalink: /work-with-me/
+description: "Find out more about Benjamin, what he cares about and how you can work with him."
+permalink: /work/
 ---
 
 Hi 👋,  
-my name is [Benjamin Reitzammer](about), I'm a Freelance CTO and [worked on many different projects and products](past-work) in the past.
+my name is [Benjamin Reitzammer](about).
 
-Feel free [to contact me](/contact), or follow me on [LinkedIn](https://www.linkedin.com/in/benjamin-reitzammer/) or [Twitter](https://twitter.com/benjamin).
+With over 20y of experience in the tech industry, from Developer through Engineering Manager to Startup CTO, I nowadays support and build high performing organizations where positive, human-centered practices and relationships are front and center.
 
-### How can I help?
+In my day to day work, I do this at [BRYTER](https://bryter.io) in various roles, yet mostly through caring for people and coaching them. That's why I like to call myself a Carer & Coach.
 
-I'd love to work with you and ...
+I also coach CTOs from a few select organizations. [Reach out](/contact) if you're interested in bringing me on board as a coach.
 
-🚀 improve your [recruiting efforts and attract candidates](past-work#recruiting) with you
-
-💪 [mentor](past-work#mentor), [train](past-work#train) and [coach](past-work#coach) your remote teams and managers
-
+Check out a few of my [past projects and products](past-work) that I've worked on to date, if you'd like to know more. And feel free [to contact me](/contact), or follow me on [LinkedIn](https://www.linkedin.com/in/benjamin-reitzammer/) or [Twitter](https://twitter.com/benjamin).
 
 ### My Values
 

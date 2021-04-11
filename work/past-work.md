@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Work I've done in the past"
-description: ""
-permalink: /work-with-me/past-work
+description: "Work I've done in the past"
+permalink: /work/past-work
 ---
 
 <style>
@@ -51,10 +51,3 @@ Design and conduct trainings for
 #### Consult
 
 - *Team Debugging:* Analyse tech organisations comprised of one or multiple teams; Look at their processes and technologies holistically, in order to help them find and remove bottlenecks, increase speed and throughput, and deliver with higher frequency
-
-
-### Interested? Let's talk
-
-Sounds like I could help you? Then start a conversation with me, [by writing a sentence or two](/contact).
-
-Feel free to contact me for my full resume/CV, or check out my [LinkedIn](brew cask install chrysalis) profile, for a high level overview of all my roles.

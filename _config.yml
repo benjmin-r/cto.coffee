@@ -13,7 +13,9 @@ keywords:   technology,cto,leadership,management,people,techlead,agile,softwared
 show_related_posts: false
 show_post_footers:  false
 
-# Build settings
+include:
+  - _redirects
+
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 sass:
