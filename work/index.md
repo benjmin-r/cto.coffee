@@ -14,7 +14,7 @@ In my day to day work, I do this at [BRYTER](https://bryter.io) in various roles
 
 I also coach CTOs from a few select organizations. [Reach out](/contact) if you're interested in bringing me on board as a coach.
 
-Check out a few of my [past projects and products](past-work) that I've worked on to date, if you'd like to know more. And feel free [to contact me](/contact), or follow me on [LinkedIn](https://www.linkedin.com/in/benjamin-reitzammer/) or [Twitter](https://twitter.com/benjamin).
+Check out a few of my [past projects and products](past-work) that I've worked on to date, if you'd like to know more. And feel free [to contact me](/contact) or follow me on [LinkedIn](https://www.linkedin.com/in/benjamin-reitzammer/).
 
 ### My Values
 
