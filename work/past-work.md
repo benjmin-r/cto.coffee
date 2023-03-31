@@ -9,18 +9,15 @@ permalink: /work/past-work
 em { background-color: #fffd9175; box-shadow: 0.25em 0 0 #fffd9175,-0.25em 0 0 #fffd9175; }
 </style>
 
-After having worked as a technical contributor for over 10 years, I switched into management roles and later became CTO of a fintech startup. Today I'm trying to widen my impact by working with several clients, mostly startups in various phases.
-
 In my latest roles I've focused on
 
-... *building effective engineering organizations*, that continuously delivers value to their clients, while continuously improving their practices and growing as people.
-
-... facilitating and *nurturing humane and empathetic team and company cultures*
+- *building effective engineering organizations*, that continuously delivers value to their clients, while continuously improving their practices and growing as people, including hiring managers and individual contributors and introducing management practices to organizations
+- facilitating and *nurturing humane and empathetic team and company cultures*
 
 
 #### Recruiting
 
-- Helped multiple startups *develop and execute recruiting and hiring strategies* so that top-talent will knock on their door asking to come in.
+- Helped multiple companies and teams *develop and execute recruiting and hiring strategies* so that top-talent will knock on their door asking to come in
 
 
 #### Mentor
@@ -32,9 +29,8 @@ In my latest roles I've focused on
 
 Design and conduct trainings for 
 
-... *engineering managers and teamleads*, to improve their people management practices
-
-... *recruiters and hiring managers*, to boost their recruiting process and interviewing practices
+- *engineering managers and teamleads*, to improve their people management practices
+- *recruiters and hiring managers*, to boost their recruiting process and interviewing practices
 
 
 #### Coach

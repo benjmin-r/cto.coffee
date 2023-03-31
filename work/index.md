@@ -10,11 +10,9 @@ my name is [Benjamin Reitzammer](about).
 
 With over 20y of experience in the tech industry, from Developer through Engineering Manager to Startup CTO, I nowadays support and build high performing organizations where positive, human-centered practices and relationships are front and center.
 
-In my day to day work, I do this at [BRYTER](https://bryter.io) in various roles, yet mostly through caring for people and coaching them. That's why I like to call myself a Carer & Coach.
+Check out a few of my [past projects and products](past-work) that I've worked on to date, or have a look at a more detailed account of the my work experience on [LinkedIn](https://www.linkedin.com/in/benjamin-reitzammer/).
 
-I also coach CTOs from a few select organizations. [Reach out](/contact) if you're interested in bringing me on board as a coach.
-
-Check out a few of my [past projects and products](past-work) that I've worked on to date, if you'd like to know more. And feel free [to contact me](/contact) or follow me on [LinkedIn](https://www.linkedin.com/in/benjamin-reitzammer/).
+Don't hesitate [to reach out to me](/contact) if you'd like to know more.
 
 ### My Values
 
