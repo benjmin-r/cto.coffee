@@ -22,15 +22,6 @@ stored for less than 30 days.
 See [Netlify's privacy policy][netlify-gdpr] for more details.
 
 
-### Mailerlite
-
-Visitors of the cto.coffee website can choose to submit their email-address, to get notified of content updates
-happening on the cto.coffee website.
-
-Email-addresses submitted in this way, will be processed by the third-party service [Mailerlite][mailerlite]. Details
-on how Mailerlite processes personal data, can be found in [Mailerlite's privacy policy][mailerlite-gdpr].
-
-
 ### Amazon S3
 
 The audio files of cto.coffee podcast episodes are hosted by the Amazon Web Services service called [S3][aws-s3]. This
@@ -57,15 +48,6 @@ Netlify erfolgt.
 Mehr Informationen hierzu finden sich in [Netlify's Datenschutzbestimmungen][netlify-gdpr]
 
 
-### Mailerlite
-
-Besucher der Website cto.coffee können freiwillig ihre Email-Adresse hinterlassen, um über inhaltliche Änderungen der
-cto.coffee Website informiert zu werden.
-
-Die Email-Adresse wird durch den Dritt-Anbieter [Mailerlite][mailerlite] verarbeitet und gespeichert. Details dazu sind
-in den [Datenschutzbestimmungen von Mailerlite][mailerlite-gdpr] beschrieben.
-
-
 ### Amazon S3
 
 Die Audiodateien der cto.coffee Podcast Episoden werden durch Systeme der Amazon Web Services [S3][aws-s3] zum Download
@@ -76,9 +58,5 @@ keine personenbezogenen Daten speichern.
 
 [netlify]: https://www.netlify.com/
 [netlify-gdpr]: https://www.netlify.com/gdpr/
-[formspree]: http://formspree.io/
-[formspree-privacy]: http://docs.formspree.io/files/privacy.pdf
-[mailerlite]: https://www.mailerlite.com/
-[mailerlite-gdpr]: https://www.mailerlite.com/gdpr-compliance
 [aws-s3]: https://aws.amazon.com/de/s3/
 [aws-privacy]: https://aws.amazon.com/de/compliance/data-privacy-faq/
