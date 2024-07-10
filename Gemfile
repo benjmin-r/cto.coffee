@@ -1,4 +1,6 @@
-source 'https://rubygems.org'
-ruby '2.6.2'
+# frozen_string_literal: true
 
-gem 'jekyll', '>= 4.0'
+ruby file: ".ruby-version"
+source "https://rubygems.org"
+
+gem "jekyll", ">= 4.3.3"
