@@ -1,7 +1,7 @@
 ---
 layout: transcript
 permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah/transcript
-episode_permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah
+episode_permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah/
 published: true
 ---
 

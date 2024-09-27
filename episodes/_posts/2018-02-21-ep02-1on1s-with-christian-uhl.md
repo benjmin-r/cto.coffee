@@ -2,7 +2,7 @@
 layout: post
 title: Episode 02 - "1on1s" with Christian Uhl
 date: 2018-05-25
-permalink: /episodes/02-1on1s-with-christian-uhl
+permalink: /episodes/02-1on1s-with-christian-uhl/
 published: true
 summary: "A chat with Christian Uhl about the why, what and how of 1on1s, the practice of two people (usually a manager and their direct reports) meeting regularly for various reasons."
 keywords: technology,cto,leadership,management,people,techlead,agile,softwaredevelopment,1on1

@@ -2,7 +2,7 @@
 layout: post
 title: Episode 04 - "Career Growth Frameworks" with David Morgantini
 date: 2018-11-06
-permalink: /episodes/04-career-growth-frameworks-with-david-morgantini
+permalink: /episodes/04-career-growth-frameworks-with-david-morgantini/
 published: true
 summary: This time David Morgantini joined me for a chat about engineering ladders and career growth frameworks. David is currently building SkillsMap, a company focused on creating tools that reduce the cost of creating a growth culture in organizations.
 keywords: technology,cto,leadership,engineeringladder,careergrowth,growth,teams
