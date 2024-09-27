@@ -5,7 +5,7 @@ title: "Let's talk about humans & tech"
 
 cto.coffee is a podcast about humans in technology. It features short conversation between [me](/work-with-me) and varying guests, where we talk about the human side of technology and developing software.
 
-<span class="fa fa-rss"></span> Subscribe to the [podcast's feed](/feed), follow the show on [Spotify][spotify-show] or on [Apple Podcasts][apple-podcasts-show].
+<span class="fa fa-rss"></span> Subscribe to the [podcast's feed](/feed.xml), follow the show on [Spotify][spotify-show] or on [Apple Podcasts][apple-podcasts-show].
 
 
 ## [Podcast Episodes →](/episodes)
