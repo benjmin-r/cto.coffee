@@ -8,23 +8,24 @@ cto.coffee is a podcast about humans in technology. It features short conversati
 <span class="fa fa-rss"></span> Subscribe to the [podcast's feed](/feed.xml), follow the show on [Spotify][spotify-show] or on [Apple Podcasts][apple-podcasts-show].
 
 
-## [Latest Writings →](/writing)
-
-{% include post-list.html posts_list=site.categories.writing post_count=3 %}
-
-<div class="u-cf"></div>
-
-[→ All Writings](/writing)
-
----
-
-## [Latest Podcast Episodes →](/episodes)
+## [Podcast Episodes →](/episodes)
 
 {% include post-list.html posts_list=site.categories.episodes post_count=3 %}
 
 <div class="u-cf"></div>
 
 [→ All Podcast Episodes](/episodes)
+
+---
+
+## [Articles →](/writing)
+
+{% include post-list.html posts_list=site.categories.writing post_count=3 %}
+
+<div class="u-cf"></div>
+
+[→ All Articles](/writing)
+
 
 
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
