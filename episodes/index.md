@@ -8,7 +8,7 @@ The cto.coffee podcast is a series where [I](/about) chat with varying guests ab
 You like talking about the human side of technology? I'd love to talk to you then, do [reach out](/contact) and let's
 have a chat.
 
-<span class="fa fa-rss"></span> Subscribe to the [podcast's feed](/feed), follow the show on [Spotify][spotify-show] or on [Apple Podcasts][apple-podcasts-show].
+<span class="fa fa-rss"></span> Subscribe to the [podcast's feed](/feed.xml), follow the show on [Spotify][spotify-show] or on [Apple Podcasts][apple-podcasts-show].
 
 ----
 
