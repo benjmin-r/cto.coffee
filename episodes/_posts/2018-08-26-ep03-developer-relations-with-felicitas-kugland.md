@@ -2,7 +2,7 @@
 layout: post
 title: Episode 03 - "Developer Relations and Community" with Felicitas Kugland
 date: 2018-08-26
-permalink: /episodes/03-developer-relations-with-felicitas-kugland
+permalink: /episodes/03-developer-relations-with-felicitas-kugland/
 published: true
 summary: Felicitas Kugland joined me for a chat. Feli is a Principal Product Engineer at an agency. And while that title sounds like you've heard it before at other companies, Feli and her employer are interpreting that position in a very interesting way. Besides working on client projects, Feli's is effectively working as a Developer Relations person, as one of the first in the company, and as such is also building the meaning of Developer Relations for the company.
 keywords: technology,cto,leadership,developerrelations,developer,principal,community,meetup,cake,conferences

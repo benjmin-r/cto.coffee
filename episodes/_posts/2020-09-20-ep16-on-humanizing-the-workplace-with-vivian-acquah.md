@@ -2,7 +2,7 @@
 layout: post
 title: Episode 16 - On Humanizing the Workplace with Vivian Acquah
 date: 2020-09-22
-permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah
+permalink: /episodes/ep16-on-humanizing-the-workplace-with-vivian-acquah/
 published: true
 summary: "A conversation with Vivian Acquah, an independent workplace wellness advocate from Amsterdam. Vivian's mission is to make the world a better place for all and future generations. She tackles that by humanizing the workplace."
 keywords: workplace, workplace wellness, culture, humanize, dehumanize, leadership

@@ -2,7 +2,7 @@
 layout: post
 title: Season 2, Episode 01 - First Teams and Why Leaders Need One with Lena Reinhard
 date: 2024-09-27
-permalink: /episodes/s02ep01-first-teams-and-why-leaders-need-one-with-lena-reinhard
+permalink: /episodes/s02ep01-first-teams-and-why-leaders-need-one-with-lena-reinhard/
 published: true
 summary: "cto.coffee podcast is back! And I'm re-starting the podcast with a truly special guest! I spoke with Lena Reinhard about the concept of 'first teams' for leaders - what they are, why they're important, and how to implement them effectively"
 keywords: leadership, first team, executives, organisations, management, organizational culture, collaboration
