@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Season 2, Episode 01 - First Teams and Why Leaders Need One with Lena Reinhard
+title: Season 2, Episode 1 - First Teams and Why Leaders Need One with Lena Reinhard
 date: 2024-09-27
 permalink: /episodes/s02ep01-first-teams-and-why-leaders-need-one-with-lena-reinhard/
 published: false
@@ -13,7 +13,7 @@ explicit: "no"
 block: "no"
 ---
 
-# Season 2, Episode 02
+# Season 2, Episode 1
 
 cto.coffee podcast is back! And I'm re-starting the podcast with a truly special guest!
 
