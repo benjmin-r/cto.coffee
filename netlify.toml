@@ -3,6 +3,3 @@
 [build]
   command = "npm run ci"
   publish = "_site"
-
-[build.environment]
-  NODE_VERSION = "22"
