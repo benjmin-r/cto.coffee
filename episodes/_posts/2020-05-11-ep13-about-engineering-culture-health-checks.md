@@ -40,7 +40,7 @@ Another favorite quote from our conversation occurred when speaking about how th
 
 ### Download
 
-[cto.coffee - Episode 13 - About Engineering Culture Health Checks]({{page.file}}) or listen to the episode on [Spotify][spotify-show].
+[cto.coffee - Episode 13 - About Engineering Culture Health Checks]({{ file }}) or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 11-May-2020.
 
@@ -92,7 +92,7 @@ This cto.coffee podcast episode was edited and prepared for publishing by [Namos
 [alan]: https://www.linkedin.com/in/alan-wright/
 [sally]: https://sallylait.com/
 [os]: https://www.linkedin.com/in/oswaldo-andres-hernandez-perez-8784906a/
-[free-code-camp]: [https://www.freecodecamp.org/]
+[free-code-camp]: https://www.freecodecamp.org/
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq
 [intro-music]: https://github.com/benjmin-r/music/blob/master/2017-12-04_cto.coffee-intro.rb
 [namos]: https://namosstudio.com/

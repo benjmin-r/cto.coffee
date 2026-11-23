@@ -45,7 +45,7 @@ Shortly thereafter at ~38min Vivian shares:
 
 ### Listen
 
-[Listen to "cto.coffee - Episode 16 - On Humanizing the Workplace with Vivian Acquah"]({{page.file}}).
+[Listen to "cto.coffee - Episode 16 - On Humanizing the Workplace with Vivian Acquah"]({{ file }}).
 
 _Content Notice:_ At ~26min, suicide is mentioned.
 

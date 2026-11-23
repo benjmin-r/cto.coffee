@@ -73,7 +73,7 @@ Enjoy!
 
 ### Listen
 
-[Listen to "cto.coffee - Episode 17 - On Belonging with Abadesi Osunsade"]({{page.file}}).
+[Listen to "cto.coffee - Episode 17 - On Belonging with Abadesi Osunsade"]({{ file }}).
 
 You can also listen to the episode and subscribe to the podcast on the show's [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show] page.
 

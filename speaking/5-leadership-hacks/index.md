@@ -63,5 +63,5 @@ Books
 [leading-snowflakes]: http://leadingsnowflakes.com/
 [swl]: http://softwareleadweekly.com/
 [nvc]: http://www.goodreads.com/book/show/71730.Nonviolent_Communication
-[purpose-1on1s]: /2015/05/21/1on1-purpose-goals/
-[mature-dev]: /2015/05/12/mature-developers/
+[purpose-1on1s]: /writing/1on1-purpose-goals
+[mature-dev]: /writing/mature-developers

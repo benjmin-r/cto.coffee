@@ -40,7 +40,7 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 04 - "Career Growth Frameworks" with David Morgantini]({{ page.file }})
+[cto.coffee - Episode 04 - "Career Growth Frameworks" with David Morgantini]({{ file }})
 
 _The episode was recorded 25-Aug-2018._
 

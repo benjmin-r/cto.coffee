@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/ep09-being-intentional-with-stephen-lewis/transcript/
+permalink: /episodes/ep09-being-intentional-with-stephen-lewis/transcript
 episode_permalink: /episodes/ep09-being-intentional-with-stephen-lewis/
 published: true
 ---

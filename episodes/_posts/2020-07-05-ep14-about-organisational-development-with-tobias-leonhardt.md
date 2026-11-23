@@ -34,7 +34,7 @@ _Disclaimer:_ At the time of the recording, Tobias and I are working at the deci
 
 ### Download
 
-[Listen to "cto.coffee - Episode 14 - About Organizational Development with Tobias Leonhardt"]({{page.file}}).
+[Listen to "cto.coffee - Episode 14 - About Organizational Development with Tobias Leonhardt"]({{ file }}).
 
 You can also listen to the episode on [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show].
 

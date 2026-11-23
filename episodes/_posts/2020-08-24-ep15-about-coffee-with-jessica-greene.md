@@ -51,7 +51,7 @@ People first. Always. And everything else follows.
 
 ### Download
 
-[cto.coffee - Episode 15 - About Coffee with Jessica Greene]({{page.file}}) or listen to the episode on [Spotify][spotify-show].
+[cto.coffee - Episode 15 - About Coffee with Jessica Greene]({{ file }}) or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 26-June-2020.
 

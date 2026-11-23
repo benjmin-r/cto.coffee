@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mature Developers"
-permalink: /writing/mature-developers/
+permalink: /writing/mature-developers
 date: 2015-05-12 21:28:00
 categories:
 summary: "Some time ago, as I started to spend more time on growing our tech team at vaamo again, I realized that I had put off one thing for much too long already: Putting down my definition of maturity and technical leadership in software teams. In order to get this finally sorted out, I'll lay out the aspects that together make up a mature developer."

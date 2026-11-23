@@ -47,7 +47,7 @@ heard it before.
 
 _This episode is in German!_
 
-[cto.coffee - Episode 02 - "1on1s" with Christian Uhl]({{ page.file }})
+[cto.coffee - Episode 02 - "1on1s" with Christian Uhl]({{ file }})
 
 
 ### Show Notes

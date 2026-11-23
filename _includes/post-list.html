@@ -1,19 +1,18 @@
-  <div class="posts container">
-    {% for post in include.posts_list limit:include.post_count %}
-      <div class="post row">
-        <div class="post-meta three columns">{{ post.date | date: "%b %-d, %Y" }}</div>
-        <div class="nine columns">
-          <a href="{{ post.url }}" class="post-link">
-            <h4 class="post-title">{{ post.data.title }}</h4>
-          </a>
-          <p class="post-summary">
-            {{ post.data.summary }}
-            <a href="{{ post.url }}" class="post-link">
-              <div class="read-more">Read more…</div>
-            </a>
-          </p>
-        </div>
-      </div>
-    {% endfor %}
-  </div>
-
+<div class="posts container">
+{%- for post in include.posts_list limit:include.post_count %}
+<div class="post row">
+<div class="post-meta three columns">{{ post.date | date: "%b %-d, %Y" }}</div>
+<div class="nine columns">
+<a href="{{ post.url | pretty_url }}" class="post-link">
+<h4 class="post-title">{{ post.data.title | escape }}</h4>
+</a>
+<p class="post-summary">
+{{ post.data.summary }}
+<a href="{{ post.url | pretty_url }}" class="post-link">
+<div class="read-more">Read more…</div>
+</a>
+</p>
+</div>
+</div>
+{%- endfor %}
+</div>

@@ -57,7 +57,7 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 06 - "Symbolic & Observational Thinking" with Yulia Startsev]({{ page.file }})
+[cto.coffee - Episode 06 - "Symbolic & Observational Thinking" with Yulia Startsev]({{ file }})
 or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 07-Nov-2018.
