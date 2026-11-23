@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/ep12-inclusive-events-with-joanna-and-beren/transcript
+permalink: /episodes/ep12-inclusive-events-with-joanna-and-beren/transcript/
 episode_permalink: /episodes/ep12-inclusive-events-with-joanna-and-beren/
 published: true
 ---

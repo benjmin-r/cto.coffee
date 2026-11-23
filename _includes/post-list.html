@@ -4,10 +4,10 @@
         <div class="post-meta three columns">{{ post.date | date: "%b %-d, %Y" }}</div>
         <div class="nine columns">
           <a href="{{ post.url }}" class="post-link">
-            <h4 class="post-title">{{ post.title }}</h4>
+            <h4 class="post-title">{{ post.data.title }}</h4>
           </a>
           <p class="post-summary">
-            {{ post.summary }}
+            {{ post.data.summary }}
             <a href="{{ post.url }}" class="post-link">
               <div class="read-more">Read more…</div>
             </a>

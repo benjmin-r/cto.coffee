@@ -2,7 +2,7 @@
 layout: page
 title: "Work I've done in the past"
 description: "Work I've done in the past"
-permalink: /work/past-work
+permalink: /work/past-work/
 ---
 
 <style>

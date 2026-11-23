@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/ep13-about-engineering-culture-health-checks/transcript
+permalink: /episodes/ep13-about-engineering-culture-health-checks/transcript/
 episode_permalink: /episodes/ep13-about-engineering-culture-health-checks/
 published: true
 ---

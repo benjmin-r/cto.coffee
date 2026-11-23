@@ -2,7 +2,7 @@
 layout: page
 title: "About Benjamin"
 description: ""
-permalink: /work/about
+permalink: /work/about/
 ---
 
 <p>

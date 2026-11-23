@@ -1,13 +1,13 @@
 ---
 layout: layout
 ---
-{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% assign minutes = content | number_of_words | divided_by: 180 | floor %}
 {% if minutes == 0 %}
   {% assign minutes = 1 %}
 {% endif %}
 
 <div class='jumpback'>
-  <a href='/{{ page.categories }}'>↖︎ Back to list of {{ page.categories }}</a>
+  <a href='/{{ section }}'>↖︎ Back to list of {{ section }}</a>
 </div>
 
 <article class="post-content">

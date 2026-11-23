@@ -2,7 +2,7 @@
 layout: post
 title: "On the Structure of One on Ones"
 date: 2015-09-09 23:20:00
-permalink: /writing/1on1-structure
+permalink: /writing/1on1-structure/
 categories:
 summary: "Over the course of those last two years, I found a structure for having 1on1 meetings that helps me a lot to get the most of these meetings, and which also helped to make 1on1s a deeply ingrained part of vaamo's tech team culture."
 ---

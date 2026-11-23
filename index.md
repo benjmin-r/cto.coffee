@@ -10,7 +10,7 @@ cto.coffee is a podcast about humans in technology. It features short conversati
 
 ## [Podcast Episodes →](/episodes)
 
-{% include post-list.html posts_list=site.categories.episodes post_count=3 %}
+{% include post-list.html posts_list=collections.episodes post_count=3 %}
 
 <div class="u-cf"></div>
 
@@ -20,7 +20,7 @@ cto.coffee is a podcast about humans in technology. It features short conversati
 
 ## [Articles →](/writing)
 
-{% include post-list.html posts_list=site.categories.writing post_count=3 %}
+{% include post-list.html posts_list=collections.writing post_count=3 %}
 
 <div class="u-cf"></div>
 
