@@ -9,4 +9,4 @@ layout: layout
 
 ## Latest Writing
 
-{% include post-list.html posts_list=site.categories.writing %}
+{% include post-list.html posts_list=collections.writing %}

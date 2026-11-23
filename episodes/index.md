@@ -14,7 +14,7 @@ have a chat.
 
 ## Podcast Episodes
 
-{% include post-list.html posts_list=site.categories.episodes %}
+{% include post-list.html posts_list=collections.episodes %}
 
 
 [spotify-show]: https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq

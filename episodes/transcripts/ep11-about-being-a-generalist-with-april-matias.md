@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/ep11-about-being-a-generalist-with-april-matias/transcript
+permalink: /episodes/ep11-about-being-a-generalist-with-april-matias/transcript/
 episode_permalink: /episodes/ep11-about-being-a-generalist-with-april-matias/
 published: true
 ---

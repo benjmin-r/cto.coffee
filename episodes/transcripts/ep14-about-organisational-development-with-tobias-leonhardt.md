@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/ep14-about-organizational-development-with-tobias-leonhardt/transcript
+permalink: /episodes/ep14-about-organizational-development-with-tobias-leonhardt/transcript/
 episode_permalink: /episodes/ep14-about-organizational-development-with-tobias-leonhardt/
 published: true
 ---

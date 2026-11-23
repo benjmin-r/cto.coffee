@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/s02ep01-first-teams-and-why-leaders-need-one-with-lena-reinhard/transcript
+permalink: /episodes/s02ep01-first-teams-and-why-leaders-need-one-with-lena-reinhard/transcript/
 episode_permalink: /episodes/s02ep01-first-teams-and-why-leaders-need-one-with-lena-reinhard/
 published: true
 ---
