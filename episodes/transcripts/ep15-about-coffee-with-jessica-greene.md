@@ -1,6 +1,6 @@
 ---
 layout: transcript
-permalink: /episodes/ep15-about-coffee-with-jessica-greene/transcript/
+permalink: /episodes/ep15-about-coffee-with-jessica-greene/transcript
 episode_permalink: /episodes/ep15-about-coffee-with-jessica-greene/
 published: true
 ---

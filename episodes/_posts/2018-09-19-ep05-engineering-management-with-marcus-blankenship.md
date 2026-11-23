@@ -46,7 +46,7 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 05 - "Engineering Management" with Marcus Blankenship]({{ page.file }})
+[cto.coffee - Episode 05 - "Engineering Management" with Marcus Blankenship]({{ file }})
 
 
 ### Show Notes

@@ -30,7 +30,7 @@ My favorite quote from our conversation occurs at ~23min:
 
 ### Download
 
-[cto.coffee - Episode 11 - QA Generalist To Developer with April Matias]({{page.file}}) or listen to the episode on [Spotify](https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq).
+[cto.coffee - Episode 11 - QA Generalist To Developer with April Matias]({{ file }}) or listen to the episode on [Spotify](https://open.spotify.com/show/1tTIPMUw3jT882J0dprLYq).
 
 This episode was recorded on 11-March-2020.
 

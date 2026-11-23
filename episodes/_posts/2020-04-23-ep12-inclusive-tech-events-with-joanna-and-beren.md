@@ -49,7 +49,7 @@ The [ITMatters][itmatters] conference series started in 2019 in Poland. Take a l
 
 ### Download
 
-[cto.coffee - Episode 12 - About Inclusive Events with Joanna and Beren]({{page.file}}) or listen to the episode on [Spotify][spotify-show].
+[cto.coffee - Episode 12 - About Inclusive Events with Joanna and Beren]({{ file }}) or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 24-March-2020.
 

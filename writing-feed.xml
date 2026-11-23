@@ -23,10 +23,10 @@ permalink: /writing-feed.xml
     {% for post in collections.writing limit:10 %}
       <item>
         <title>{{ post.data.title | xml_escape }}</title>
-        <link>{{ site.url }}{{ post.url }}</link>
+        <link>{{ site.url }}{{ post.url | pretty_url }}</link>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{ post.templateContent | xml_escape }}</description>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url | pretty_url }}</guid>
       </item>
     {% endfor %}
   </channel>

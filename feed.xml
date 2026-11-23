@@ -36,10 +36,10 @@ permalink: /feed.xml
     {% for post in collections.episodes %}
       <item>
         <title>{{ post.data.title | xml_escape }}</title>
-        <link>{{ site.url }}{{ post.url }}</link>
+        <link>{{ site.url }}{{ post.url | pretty_url }}</link>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <description>{{ post.data.summary | xml_escape }}</description>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        <guid isPermaLink="true">{{ site.url }}{{ post.url | pretty_url }}</guid>
         <enclosure url="{{ post.data.file }}" length="{{ post.data.length }}" type="audio/mp3"/>
         <itunes:author>{{ site.author }}</itunes:author>
         <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.data.title | xml_escape }}</itunes:subtitle>

@@ -30,7 +30,7 @@ That said, I hope you enjoy listening to our chat as we enjoyed having it.
 
 ### Download
 
-[cto.coffee - Episode 01 - "On interviewing" with Raimo Radczewski]({{ page.file }})
+[cto.coffee - Episode 01 - "On interviewing" with Raimo Radczewski]({{ file }})
 
 
 ### Show Notes

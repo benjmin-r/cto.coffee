@@ -40,7 +40,7 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 03 - "Developer Relations & Community" with Felicitas Kugland]({{ page.file }})
+[cto.coffee - Episode 03 - "Developer Relations & Community" with Felicitas Kugland]({{ file }})
 
 _The episode was recorded 27-Apr-2018._
 

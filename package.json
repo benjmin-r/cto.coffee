@@ -3,13 +3,23 @@
   "version": "1.0.0",
   "scripts": {
     "start": "eleventy --serve",
-    "build": "eleventy"
+    "build": "eleventy",
+    "preview": "serve _site",
+    "test": "node --test tests/site.test.js",
+    "ci": "npm run build && npm test"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.1.8",
     "@11ty/eleventy-plugin-rss": "^3.1.0",
-    "sass": "^1.108.2"
+    "cheerio": "^1.2.0",
+    "markdown-it-anchor": "^10.1.0",
+    "markdown-it-footnote": "^4.0.0",
+    "sass": "^1.108.2",
+    "serve": "^14.2.8"
   },
   "private": true,
-  "type": "module"
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  }
 }

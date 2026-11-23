@@ -36,7 +36,7 @@ Enjoy!
 
 ### Download
 
-[cto.coffee - Episode 08 - Empathic Management with Alex Schladebeck]({{ page.file }}) or listen to the episode on [Spotify][spotify-show].
+[cto.coffee - Episode 08 - Empathic Management with Alex Schladebeck]({{ file }}) or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 27-Mar-2019.
 

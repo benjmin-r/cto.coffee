@@ -2,18 +2,15 @@
 layout: page
 title: "About Benjamin"
 description: ""
-permalink: /work/about/
+permalink: /work/about
 ---
 
 <p>
   <img class="aboutimg" src="/static/img/benjamin.jpg" />
-
   I’m a generalist, with over 20 years experience of working in information technology.
-
   <br>
   <br>
   I've held most of the roles there are in a typical software development organisation.
-
 </p>
 <div style='clear: both;'></div>
 

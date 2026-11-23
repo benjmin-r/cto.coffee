@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On the Purpose of One on Ones"
-permalink: /writing/1on1-purpose-goals/
+permalink: /writing/1on1-purpose-goals
 date: 2015-05-21 11:38:00
 categories:
 summary: "Since I started working at my current role two years ago, I started to give the purpose and structure of the 1on1 meetings I had with my team members more thought. <br>And I want to share what I think is the purpose of having 1on1s."

@@ -28,7 +28,7 @@ My favorite quote from what Daniel said occurs at ~13min:
 
 ### Download
 
-[cto.coffee - Episode 10 - Building Team Trust with Daniel Jilg]({{ page.file }})
+[cto.coffee - Episode 10 - Building Team Trust with Daniel Jilg]({{ file }})
 or listen to the episode on [Spotify][spotify-show].
 
 This episode was recorded on 09-Jan-2020.

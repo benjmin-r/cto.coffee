@@ -1,5 +1,7 @@
+# `npm run ci` = build + post-build checks (tests/site.test.js).
+# If a check fails the Netlify build fails and the previous deploy stays live.
 [build]
-  command = "npm run build"
+  command = "npm run ci"
   publish = "_site"
 
 [build.environment]

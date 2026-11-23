@@ -73,7 +73,7 @@ I hope you enjoy listening to the conversation as much as Lena and I did while w
 
 ### Listen
 
-[Listen to "cto.coffee - Season 2, Episode 1 - First Teams and Why Leaders Need One with Lena Reinhard"]({{page.file}}).
+[Listen to "cto.coffee - Season 2, Episode 1 - First Teams and Why Leaders Need One with Lena Reinhard"]({{ file }}).
 
 You can also listen to the episode and subscribe to the podcast on the show's [Spotify][spotify-show] or [Apple Podcasts][apple-podcasts-show] page.
 

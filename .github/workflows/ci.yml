@@ -1,0 +1,20 @@
+name: CI
+
+# Early feedback on PRs. Netlify runs the same `npm run ci` as its build command,
+# so a failing check also blocks the deploy.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  build-and-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - run: npm run ci

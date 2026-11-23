@@ -22,4 +22,4 @@ I've been at various conferences and meetups/usergroups over the last years and 
 
 For some time in September/October 2015 I sent out (a whopping five times) a newsletter about leadership in tech. Stuff basically.
 
-I [archived the sent out newsletter issues](/leaders-digest-archive/) on this site and laid out the reasons for stopping the newsletter again in a [short blog post](https://squeakyvessel.com/2015/12/15/farewell-leaders-digest/).
+I laid out the reasons for stopping the newsletter again in a [short blog post](https://squeakyvessel.com/2015/12/15/farewell-leaders-digest/).
